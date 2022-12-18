@@ -12,11 +12,11 @@ Awesome list for Hyprland
 ### Designed for Hyprland
 
 #### Official tools
-- [Hyprpaper](https://github.com/hyprwm/hyprpaper) ![c++][cpp] [![Hyprland][made-for-hyprland]][hyprland] (wallpaper daemon)
-- [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] [![Hyprland][made-for-hyprland]][hyprland] (colorpicker)
+- [Hyprpaper](https://github.com/hyprwm/hyprpaper) ![c++][cpp] (wallpaper daemon)
+- [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (colorpicker)
 
 #### Screenshotting
-- [Grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast) ![shell][sh] [![Hyprland][made-for-hyprland]][hyprland] (Port of grimshot, which is a abstraction over grim and slurp)
+- [Grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast) ![shell][sh] (Port of grimshot, which is an abstraction over grim and slurp)
 
 ### Work with Hyprland
 
@@ -98,10 +98,6 @@ Awesome list for Hyprland
   - [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) ![rust][rs] (Very basic greeter in raw wayland and SCTK)
 
 <!-- Links -->
-
-<!-- General -->
-[made-for-hyprland]: https://img.shields.io/badge/Made%20for-Hyprland-blue
-[hyprland]: https://github.com/hyprwm/Hyprland
 
 <!-- Languages -->
 [rs]: https://img.shields.io/badge/-rust-orange
