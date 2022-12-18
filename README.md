@@ -44,7 +44,7 @@ Awesome list for Hyprland
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
 
-#### Runner/Launcher
+#### Runners, Menus, and Application Launchers
 - [rofi-wayland](https://github.com/lbonn/rofi) ![c][c] (Rofi fork with support for wlroots)
 - [tofi](https://github.com/philj56/tofi) ![c][c] (very tiny rofi inspired menu)
 - [bemenu](https://github.com/Cloudef/bemenu) ![c][c] (looks like dmenu, but crossplatform)
