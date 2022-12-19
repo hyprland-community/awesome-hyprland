@@ -6,6 +6,7 @@ Awesome list for Hyprland
 - [Shell Events](https://github.com/hyprwm/contrib/tree/main/shellevents) (events) ![shell][sh]
 - [Hyprland IPC Client](https://github.com/labi-le/hyprland-ipc-client) (events) ![go][go]
 - [Hyprland_rs](https://github.com/amirography/hyprland_rs) (config generation) ![rust][rs]
+- [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) (events, hyprctl) ![dart][da]
 
 ## Tools
 
@@ -111,3 +112,4 @@ Awesome list for Hyprland
 [c]: https://img.shields.io/badge/-c-lightgrey
 [z]: https://img.shields.io/badge/-zig-yellow
 [va]: https://img.shields.io/badge/-vala-blueviolet
+[da]: https://img.shields.io/badge/-dart-02D3B3
