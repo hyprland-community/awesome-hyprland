@@ -73,7 +73,7 @@ Awesome list for Hyprland
 ##### Annotation
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
-#### Locking, Idle, and Login
+#### Locking, Idle, Clipboard and Login
 
 ##### Misc
 - [Wayout](https://git.sr.ht/~shinyzenith/wayout) ![rust][rs] (For turning off display, useful for idle)
@@ -88,6 +88,10 @@ Awesome list for Hyprland
 - [swaylock-effects](https://github.com/mortie/swaylock-effects) ![c][c] (Fork of swaylock, but with effects ^)
 - [waylock](https://github.com/ifreund/waylock) ![zig][z] "A small screenlocker for Wayland compositors" (As quoted from repo)
 
+##### Clipboard Managers
+- [clipman](https://github.com/yory8/clipman) ![go][go] ("A simple clipboard manager for Wayland") 
+- [cliphist](https://github.com/sentriz/cliphist) ![go][go] ("wayland clipboard manager")
+ 
 ###### Display Managers
 - [GDM](https://wiki.gnome.org/Projects/GDM) ![c][c]
 - [SSDM](https://github.com/sddm/sddm) ![c++][cpp]
