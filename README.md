@@ -105,11 +105,19 @@ Awesome list for Hyprland
 <!-- Links -->
 
 <!-- Languages -->
+<!-- Rust -->
 [rs]: https://img.shields.io/badge/-rust-orange
+<!-- Shell/Bash -->
 [sh]: https://img.shields.io/badge/-shell-green
+<!-- Golang -->
 [go]: https://img.shields.io/badge/-go-68D7E2
+<!-- C++ -->
 [cpp]: https://img.shields.io/badge/-c%2B%2B-red
+<!-- C -->
 [c]: https://img.shields.io/badge/-c-lightgrey
+<!-- Zig -->
 [z]: https://img.shields.io/badge/-zig-yellow
+<!-- Vala -->
 [va]: https://img.shields.io/badge/-vala-blueviolet
+<!-- Dart -->
 [da]: https://img.shields.io/badge/-dart-02D3B3
