@@ -61,7 +61,6 @@ Awesome list for Hyprland
 
 ##### All in one Tools
 - [Flameshot](https://github.com/flameshot-org/flameshot) ![c++][cpp]
-- [Shotman](https://git.sr.ht/~whynothugo/shotman) ![rust][rs]
 
 ##### Raw Tools
 - [Grim](https://github.com/emersion/grim) ![c][c] (basic screenshot tool)
