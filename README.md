@@ -1,4 +1,6 @@
 # Awesome Hyprland
+[![Discord](https://img.shields.io/discord/1055990214411169892?label=discord)](https://discord.gg/zzWqvcKRMy)
+
 Awesome list for Hyprland
 
 ## Language Bindings
