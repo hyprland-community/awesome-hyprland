@@ -5,6 +5,7 @@ Awesome list for Hyprland
 
 ## Language Bindings
 - [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) (events, hyprctl) ![rust][rs]
+- [Hyprland-py](https://github.com/hyprland-community/hyprland-py) (events, hyprctl, binds) ![python][py]
 - [Shell Events](https://github.com/hyprwm/contrib/tree/main/shellevents) (events) ![shell][sh]
 - [Hyprland IPC Client](https://github.com/labi-le/hyprland-ipc-client) (events) ![go][go]
 - [Hyprland_rs](https://github.com/amirography/hyprland_rs) (config generation) ![rust][rs]
@@ -123,3 +124,5 @@ Awesome list for Hyprland
 [va]: https://img.shields.io/badge/-vala-blueviolet
 <!-- Dart -->
 [da]: https://img.shields.io/badge/-dart-02D3B3
+<!-- Python -->
+[py]: https://img.shields.io/badge/-python-blue
