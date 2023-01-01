@@ -98,7 +98,7 @@ Awesome list for Hyprland
  
 ###### Display Managers
 - [GDM](https://wiki.gnome.org/Projects/GDM) ![c][c]
-- [SSDM](https://github.com/sddm/sddm) ![c++][cpp]
+- [SDDM](https://github.com/sddm/sddm) ![c++][cpp]
 - [lightdm](https://github.com/canonical/lightdm) ![c][c] (Display manager with a bunch of greeters, more info on gh repo)
 - [Greetd](https://sr.ht/~kennylevinsen/greetd/) ![rust][rs] (Login daemon with a couple greeters, bellow are some good ones)
   - [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) ![c][c] (Very simple gtk greeter)
