@@ -76,6 +76,9 @@ Awesome list for Hyprland
 ##### Annotation
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
+#### On-screen Keyboards
+- [wvkbd](https://github.com/jjsullivan5196/wvkbd) ![c][c] (On-screen keyboard for wlroots)
+
 #### Locking, Idle, Clipboard and Login
 
 ##### Misc
