@@ -54,6 +54,7 @@ Awesome list for Hyprland
 - [bemenu](https://github.com/Cloudef/bemenu) ![c][c] (looks like dmenu, but crossplatform)
 - [wofi](https://hg.sr.ht/~scoopta/wofi) ![c][c] (simple menu made in gtk)
 - [fuzzel](https://codeberg.org/dnkl/fuzzel) ![c][c] (simple application launcher similar to rofi's drun mode)
+- [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
 
 #### Wallpaper
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
