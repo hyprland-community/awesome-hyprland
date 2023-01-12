@@ -58,7 +58,7 @@ Awesome list for Hyprland
 
 #### Wallpaper
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
-- [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, usefull for vidoes, and more advanced usage)
+- [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, usefull for videos, and more advanced usage)
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
 
 #### Screenshotting
@@ -72,7 +72,7 @@ Awesome list for Hyprland
 - [slurp](https://github.com/emersion/slurp) ![c][c] (basic area selection tool)
 
 ##### Recording
-- [wf-recorder](https://github.com/ammen99/wf-recorder) ![c++][c] (Simple screnrecorder, like grim but records video)
+- [wf-recorder](https://github.com/ammen99/wf-recorder) ![c++][c] (Simple screenrecorder, like grim but records video)
 
 ##### Annotation
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
@@ -106,7 +106,7 @@ Awesome list for Hyprland
 - [lightdm](https://github.com/canonical/lightdm) ![c][c] (Display manager with a bunch of greeters, more info on gh repo)
 - [Greetd](https://sr.ht/~kennylevinsen/greetd/) ![rust][rs] (Login daemon with a couple greeters, bellow are some good ones)
   - [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) ![c][c] (Very simple gtk greeter)
-  - [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Confiurable and overall more complicated greeter in QT)
+  - [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Configurable and overall more complicated greeter in QT)
   - [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) ![rust][rs] (Very basic greeter in raw wayland and SCTK)
 
 <!-- Links -->
