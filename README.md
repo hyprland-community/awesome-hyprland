@@ -72,7 +72,7 @@ Awesome list for Hyprland
 - [slurp](https://github.com/emersion/slurp) ![c][c] (basic area selection tool)
 
 ##### Recording
-- [wf-recorder](https://github.com/ammen99/wf-recorder) ![c++][c] (Simple screenrecorder, like grim but records video)
+- [wf-recorder](https://github.com/ammen99/wf-recorder) ![c++][cpp] (Simple screenrecorder, like grim but records video)
 
 ##### Annotation
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
