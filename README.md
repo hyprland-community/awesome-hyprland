@@ -29,11 +29,11 @@ Awesome list for Hyprland
 - [waybar](https://github.com/Alexays/Waybar/) ![c++][cpp] (Like polybar, but for wlroots, very customizable)
 - [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Feature-full bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![rust][rs] (Workspaces auto renamer, tested with waybar)
+- [ironbar](https://github.com/JakeStanger/ironbar) ![rust][rs] (Very customizable bar with gui components)
 
 ##### Partial support
-> no descs sorry, read the readme of the projects
+> no descs since no full support sorry, read the readme of the projects
 
-- [ironbar](https://github.com/JakeStanger/ironbar) ![rust][rs] (Needs to implement Hyprland workspaces, will be implemented soon though)
 - [Yambar](https://codeberg.org/dnkl/yambar) ![c][c] (Needs to implement Hyprland workspaces)
 
 #### Notification Daemons
