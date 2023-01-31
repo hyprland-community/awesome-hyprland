@@ -30,7 +30,6 @@ Awesome list for Hyprland
 - [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Feature-full bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![rust][rs] (Workspaces auto renamer, tested with waybar)
 - [ironbar](https://github.com/JakeStanger/ironbar) ![rust][rs] (Very customizable bar with gui components)
-- [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout (language))
 
 ##### Partial support
 > no descs since no full support sorry, read the readme of the projects
@@ -79,7 +78,11 @@ Awesome list for Hyprland
 ##### Annotation
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
-#### On-screen Keyboards
+#### Input
+
+- [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout (language))
+
+##### On-screen Keyboards
 - [wvkbd](https://github.com/jjsullivan5196/wvkbd) ![c][c] (On-screen keyboard for wlroots)
 
 #### Locking, Idle, Clipboard and Login
