@@ -79,7 +79,6 @@ Awesome list for Hyprland
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
 #### Input
-
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout (language))
 
 ##### On-screen Keyboards
