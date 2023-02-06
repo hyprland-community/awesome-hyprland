@@ -66,6 +66,7 @@ Awesome list for Hyprland
 
 ##### All in one Tools
 - [Flameshot](https://github.com/flameshot-org/flameshot) ![c++][cpp]
+- [Watershot](https://github.com/Kirottu/watershot) ![rust][rs] (A simple wayland native screenshot tool)
 
 ##### Raw Tools
 - [Grim](https://github.com/emersion/grim) ![c][c] (basic screenshot tool)
