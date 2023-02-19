@@ -7,6 +7,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) ![rust][rs] (events, hyprctl, binds)
 - [Hyprland-py](https://github.com/hyprland-community/hyprland-py) ![python][py] (events, hyprctl, binds)
 - [Shell Events](https://github.com/hyprwm/contrib/tree/main/shellevents) ![shell][sh] (events)
+- [Hypr Events](https://github.com/vilari-mickopf/hyprevents) ![shell][sh] (events)
 - [Hyprland IPC Client](https://github.com/labi-le/hyprland-ipc-client) ![go][go] (events)
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
 - ~~[Hyprland_rs](https://github.com/amirography/hyprland_rs) ![rust][rs] (config generation)~~ **(DEPRECATED)**
@@ -25,7 +26,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [waybar](https://github.com/Alexays/Waybar/) ![c++][cpp] (Like polybar, but for wlroots, very customizable)
 - [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Feature-full bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![Made for Hyprland][mfh] ![rust][rs] (Workspaces auto renamer, tested with waybar)
-- [ironbar](https://github.com/JakeStanger/ironbar) ![rust][rs] (Very customizable bar with gui components)
+- [ironbar](https://github.com/JakeStanger/ironbar) ![Supports Hyprland][sph] ![rust][rs] (Very customizable bar with gui components)
 
 #### Partial support
 - [Yambar](https://codeberg.org/dnkl/yambar) ![c][c] (Modular status panel for X11 and Wayland, inspired by polybar) ([Needs to implement Hyprland workspaces](https://codeberg.org/dnkl/yambar/issues/279))
@@ -61,7 +62,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 #### All in one Tools
 - [Watershot](https://github.com/Kirottu/watershot) ![rust][rs] (A simple wayland native screenshot tool)
 - [Grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast) ![shell][sh] (Port of grimshot, which is an abstraction over grim and slurp)
-- [Flameshot](https://github.com/flameshot-org/flameshot) ![c++][cpp]
+- [Flameshot](https://github.com/flameshot-org/flameshot) ![c++][cpp] (All in one screenshotting tool with gui, annotation, + more) **(To use make sure you have grim flag enabled)**
 
 #### Raw Tools
 - [Grim](https://github.com/emersion/grim) ![c][c] (basic screenshot tool)
@@ -75,7 +76,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
 ### Input
-- [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout (language))
+- [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![Made for Hyprland][mfh] ![shell][sh] (Script to maintain per window keyboard layout (language))
 
 #### On-screen Keyboards
 - [wvkbd](https://github.com/jjsullivan5196/wvkbd) ![c][c] (On-screen keyboard for wlroots)
@@ -111,6 +112,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 
 <!-- Links -->
 [mfh]: https://img.shields.io/badge/-made%20for%20Hyprland-blue
+[sph]: https://img.shields.io/badge/-supports%20Hyprland-brightgreen
 
 <!-- Languages -->
 <!-- Rust -->
