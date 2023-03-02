@@ -15,6 +15,15 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 ## Config parsers
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
 
+## Plugins
+- [hyprload](https://github.com/Duckonaut/hyprload) ![c++][cpp] (Hyprland plugin manager that adds support for reloading plugins)
+- [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) ![c++][cpp] (A small Hyprland plugin to provide awesome-like workspace behavior)
+
+### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
+- [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
+- [hyprbars](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprbars) ![c++][cpp] (Fixes custom resolutions on CS:GO with -vulkan)
+- [cs:go vulkan fix](https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix) ![c++][cpp] (Adds title bars to windows)
+
 ## Tools
 
 ### Official tools
