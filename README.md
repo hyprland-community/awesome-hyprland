@@ -57,6 +57,12 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, usefull for videos, and more advanced usage)
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
 
+### Display
+- [iio-hyprland](https://github.com/JeanSchoeller/iio-hyprland) ![c][c] (Listen iio-sensor-proxy and auto change Hyprland output orientation)
+- [wlr-rander](https://sr.ht/~emersion/wlr-randr/) ![c][c] (An xrandr clone for wlroots compositors)
+- [kanshi](https://git.sr.ht/~emersion/kanshi) ![c][c] (Dynamic display configuration)
+- [Wayout](https://git.sr.ht/~shinyzenith/wayout) ![rust][rs] (For turning off display, useful for idle) **(can be replicated using hyprctl)**
+
 ### Screenshotting
 
 #### All in one Tools
@@ -85,7 +91,6 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 ### Locking, Idle, Clipboard and Login
 
 #### Misc
-- [Wayout](https://git.sr.ht/~shinyzenith/wayout) ![rust][rs] (For turning off display, useful for idle)
 - [Wlogout](https://github.com/ArtsyMacaw/wlogout) ![c][c] (Logout menu)
 - [wayprompt](https://git.sr.ht/~leon_plickat/wayprompt) ![zig][z] (pinentry prompter)
 
