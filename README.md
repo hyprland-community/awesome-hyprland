@@ -18,6 +18,9 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 ## Plugins
 - [hyprload](https://github.com/Duckonaut/hyprload) ![c++][cpp] (Hyprland plugin manager that adds support for reloading plugins)
 - [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) ![c++][cpp] (A small Hyprland plugin to provide awesome-like workspace behavior)
+- [hyprland-touch-gestures](https://github.com/horriblename/hyprland-touch-gestures) ![c++][cpp] (Hyprland plugin for touch gestures)
+- [hyprNStack](https://github.com/zakk4223/hyprNStack) ![c++][cpp] (Hyprland plugin for N-stack tiling layout)
+- [hyprRiver](https://github.com/zakk4223/hyprRiver) ![c++][cpp] (River layouts for Hyprland)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 - [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
