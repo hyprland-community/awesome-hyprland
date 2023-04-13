@@ -106,6 +106,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 #### Misc
 - [Wlogout](https://github.com/ArtsyMacaw/wlogout) ![c][c] (Logout menu)
 - [wayprompt](https://git.sr.ht/~leon_plickat/wayprompt) ![zig][z] (pinentry prompter)
+- [hypr-empty](https://github.com/nate-sys/hypr-empty)  ![rust][rs] (Open a runner on empty workspaces)
 
 #### Idle Daemons
 - [swayidle](https://github.com/swaywm/swayidle) ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
