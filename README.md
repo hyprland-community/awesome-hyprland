@@ -63,6 +63,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [wofi](https://hg.sr.ht/~scoopta/wofi) ![c][c] (simple menu made in gtk)
 - [fuzzel](https://codeberg.org/dnkl/fuzzel) ![c][c] (simple application launcher similar to rofi's drun mode)
 - [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
+- [hypr-empty](https://github.com/nate-sys/hypr-empty)  ![rust][rs] (Open a runner on empty workspaces)
 
 ### Wallpaper
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
@@ -106,7 +107,6 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 #### Misc
 - [Wlogout](https://github.com/ArtsyMacaw/wlogout) ![c][c] (Logout menu)
 - [wayprompt](https://git.sr.ht/~leon_plickat/wayprompt) ![zig][z] (pinentry prompter)
-- [hypr-empty](https://github.com/nate-sys/hypr-empty)  ![rust][rs] (Open a runner on empty workspaces)
 
 #### Idle Daemons
 - [swayidle](https://github.com/swaywm/swayidle) ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
