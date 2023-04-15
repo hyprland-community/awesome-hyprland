@@ -21,6 +21,9 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [hyprland-touch-gestures](https://github.com/horriblename/hyprland-touch-gestures) ![c++][cpp] (Hyprland plugin for touch gestures)
 - [hyprNStack](https://github.com/zakk4223/hyprNStack) ![c++][cpp] (Hyprland plugin for N-stack tiling layout)
 - [hyprRiver](https://github.com/zakk4223/hyprRiver) ![c++][cpp] (River layouts for Hyprland)
+- [hyprfocus](https://github.com/VortexCoyote/hyprfocus) ![c++][cpp] (Flashfocus-inspired plugin that adds flashing when changing focus, useful for borderless)
+- [hyprland-dwindle-autogroup](https://github.com/ItsDrike/hyprland-dwindle-autogroup) ![c++][cpp] (overrides groupping behavior on dwindle layout)
+- [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds I3-like manual tiling) **WIP** & **NOT DOCUMENTED** (yet)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 - [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
@@ -63,7 +66,6 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [wofi](https://hg.sr.ht/~scoopta/wofi) ![c][c] (simple menu made in gtk)
 - [fuzzel](https://codeberg.org/dnkl/fuzzel) ![c][c] (simple application launcher similar to rofi's drun mode)
 - [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
-- [hypr-empty](https://github.com/nate-sys/hypr-empty)  ![rust][rs] (Open a runner on empty workspaces)
 
 ### Wallpaper
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
@@ -151,3 +153,4 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 [da]: https://img.shields.io/badge/-dart-02D3B3
 <!-- Python -->
 [py]: https://img.shields.io/badge/-python-blue
+
