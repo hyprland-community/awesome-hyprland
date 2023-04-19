@@ -23,7 +23,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [hyprRiver](https://github.com/zakk4223/hyprRiver) ![c++][cpp] (River layouts for Hyprland)
 - [hyprfocus](https://github.com/VortexCoyote/hyprfocus) ![c++][cpp] (Flashfocus-inspired plugin that adds flashing when changing focus, useful for borderless)
 - [hyprland-dwindle-autogroup](https://github.com/ItsDrike/hyprland-dwindle-autogroup) ![c++][cpp] (overrides groupping behavior on dwindle layout)
-- [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds I3-like manual tiling) **WIP** & **NOT DOCUMENTED** (yet)
+- [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds I3-like manual tiling)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 - [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
