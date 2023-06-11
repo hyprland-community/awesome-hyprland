@@ -70,6 +70,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
 - [hypr-empty](https://github.com/nate-sys/hypr-empty) ![rust][rs] (Open a runner on empty workspaces)
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
+- [Ulauncher](https://github.com/Ulauncher/Ulauncher) ![python][py] (Launcher written in Python using GTK+ and have features like Calculator, Extensions, Shortcuts, File browser mode and Custom Color Themes)
 
 ### Wallpaper
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
