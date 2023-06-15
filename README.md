@@ -10,7 +10,6 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [Hypr Events](https://github.com/vilari-mickopf/hyprevents) ![shell][sh] (events)
 - [Hyprland IPC Client](https://github.com/labi-le/hyprland-ipc-client) ![go][go] (events, hyprctl)
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
-- ~~[Hyprland_rs](https://github.com/amirography/hyprland_rs) ![rust][rs] (config generation)~~ **(DEPRECATED)**
 
 ## Config parsers
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
@@ -44,9 +43,6 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [ironbar](https://github.com/JakeStanger/ironbar) ![rust][rs] (Very customizable bar with gui components)
 - [nwg-panel](https://github.com/nwg-piotr/nwg-panel) ![python][py] (GTK3-based panel with good support for Hyprland)
 - [nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) ![go][go] (GTK3-based dock for Hyprland)
-
-#### Partial support
-- [Yambar](https://codeberg.org/dnkl/yambar) ![c][c] (Modular status panel for X11 and Wayland, inspired by polybar) ([Needs to implement Hyprland workspaces](https://codeberg.org/dnkl/yambar/issues/279))
 
 ### Notification Daemons
 
