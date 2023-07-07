@@ -46,7 +46,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 
 ### Notifications
 
-#### Regular Notification Daemons
+#### Notification Daemons
 - [mako](https://github.com/emersion/mako) ![c][c] (Very simple and configurable notification daemon)
 - [dunst](https://dunst-project.org/) ![c][c] (Very customizable notification daemon)
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) ![vala][va] (GNOME like notification daemon, with GUI and all)
@@ -57,9 +57,9 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
 
-#### Break Notifiers
+#### Misc
 
-- [Ianny](https://github.com/zer0-x/ianny) ![rust][rs] (Periodically informes user to take breaks by keeping track of usage patterns. Depends on [`Notification Daemon`](#regular-notification-daemons))
+- [Ianny](https://github.com/zer0-x/ianny) ![rust][rs] (Periodically informes user to take breaks by keeping track of usage patterns)
 
 ### Runners, Menus, and Application Launchers
 - [rofi-wayland](https://github.com/lbonn/rofi) ![c][c] (Rofi fork with support for wlroots)
