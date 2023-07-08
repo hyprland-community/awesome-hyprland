@@ -44,9 +44,9 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [nwg-panel](https://github.com/nwg-piotr/nwg-panel) ![python][py] (GTK3-based panel with good support for Hyprland)
 - [nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) ![go][go] (GTK3-based dock for Hyprland)
 
-### Notification Daemons
+### Notifications
 
-#### Regular Notifications
+#### Notification Daemons
 - [mako](https://github.com/emersion/mako) ![c][c] (Very simple and configurable notification daemon)
 - [dunst](https://dunst-project.org/) ![c][c] (Very customizable notification daemon)
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) ![vala][va] (GNOME like notification daemon, with GUI and all)
@@ -56,6 +56,10 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [SwayOSD](https://github.com/ErikReider/SwayOSD) ![rust][rs] (GNOME like OSD written in gtk)
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
+
+#### Misc
+
+- [Ianny](https://github.com/zer0-x/ianny) ![rust][rs] (Periodically informes user to take breaks by keeping track of usage patterns)
 
 ### Runners, Menus, and Application Launchers
 - [rofi-wayland](https://github.com/lbonn/rofi) ![c][c] (Rofi fork with support for wlroots)
@@ -124,7 +128,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 #### Clipboard Managers
 - [clipman](https://github.com/yory8/clipman) ![go][go] (A simple clipboard manager for Wayland) 
 - [cliphist](https://github.com/sentriz/cliphist) ![go][go] (Wayland clipboard manager)
- 
+
 ##### Display Managers
 - [GDM](https://wiki.gnome.org/Projects/GDM) ![c][c]
 - [SDDM](https://github.com/sddm/sddm) ![c++][cpp]
