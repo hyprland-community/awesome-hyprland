@@ -1,7 +1,7 @@
 # Awesome Hyprland
 [![Discord](https://img.shields.io/discord/1055990214411169892?label=discord)](https://discord.gg/zzWqvcKRMy)
 
-Awesome list for Hyprland, that includes usefull tools and libraries that either work or are designed for Hyprland!
+Awesome list for Hyprland, that includes useful tools and libraries that either work or are designed for Hyprland!
 
 ## Language Bindings
 - [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) ![rust][rs] (events, hyprctl, binds)
@@ -38,7 +38,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 ### Status Bar/Shell
 - [eww](https://github.com/elkowar/eww/) ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
 - [waybar](https://github.com/Alexays/Waybar/) ![c++][cpp] (Like polybar, but for wlroots, very customizable)
-- [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Feature-full bar made for wlroots based compositors)
+- [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Featureful bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![rust][rs] (Workspaces auto renamer, tested with waybar)
 - [ironbar](https://github.com/JakeStanger/ironbar) ![rust][rs] (Very customizable bar with gui components)
 - [nwg-panel](https://github.com/nwg-piotr/nwg-panel) ![python][py] (GTK3-based panel with good support for Hyprland)
@@ -50,7 +50,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 - [mako](https://github.com/emersion/mako) ![c][c] (Very simple and configurable notification daemon)
 - [dunst](https://dunst-project.org/) ![c][c] (Very customizable notification daemon)
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) ![vala][va] (GNOME like notification daemon, with GUI and all)
-- [fnott](https://codeberg.org/dnkl/fnott) ![c][c] (Feature-full and configurable notification daemon)
+- [fnott](https://codeberg.org/dnkl/fnott) ![c][c] (Featureful and configurable notification daemon)
 
 #### OSD
 - [SwayOSD](https://github.com/ErikReider/SwayOSD) ![rust][rs] (GNOME like OSD written in gtk)
@@ -73,7 +73,7 @@ Awesome list for Hyprland, that includes usefull tools and libraries that either
 
 ### Wallpaper
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
-- [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, usefull for videos, and more advanced usage)
+- [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, useful for videos, and more advanced usage)
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
 
 ### Display
