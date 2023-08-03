@@ -21,8 +21,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprNStack](https://github.com/zakk4223/hyprNStack) ![c++][cpp] (Hyprland plugin for N-stack tiling layout)
 - [hyprRiver](https://github.com/zakk4223/hyprRiver) ![c++][cpp] (River layouts for Hyprland)
 - [hyprfocus](https://github.com/VortexCoyote/hyprfocus) ![c++][cpp] (Flashfocus-inspired plugin that adds flashing when changing focus, useful for borderless)
-- [hyprland-dwindle-autogroup](https://github.com/ItsDrike/hyprland-dwindle-autogroup) ![c++][cpp] (overrides groupping behavior on dwindle layout)
-- [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds I3-like manual tiling)
+- [hyprland-dwindle-autogroup](https://github.com/ItsDrike/hyprland-dwindle-autogroup) ![c++][cpp] (overrides grouping behavior on dwindle layout)
+- [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds i3-like manual tiling)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 - [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
@@ -60,7 +60,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 
 #### Misc
 
-- [Ianny](https://github.com/zer0-x/ianny) ![rust][rs] (Periodically informes user to take breaks by keeping track of usage patterns)
+- [Ianny](https://github.com/zer0-x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
 
 ### Runners, Menus, and Application Launchers
 - [rofi-wayland](https://github.com/lbonn/rofi) ![c][c] (Rofi fork with support for wlroots)
