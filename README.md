@@ -96,6 +96,10 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Wayout](https://git.sr.ht/~shinyzenith/wayout) ![rust][rs] (For turning off display, useful for idle) **(can be replicated using hyprctl)**
 - [hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland **WIP**)
 
+### Misc
+
+- [hyprdim](https://github.com/donovanglover/hyprdim) ![rust][rs] (Automatically dim windows when switching between them)
+
 ### Screenshotting
 
 #### All in one Tools
