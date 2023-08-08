@@ -88,6 +88,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, useful for videos, and more advanced usage)
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
+- [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
 
 ### Display
 
