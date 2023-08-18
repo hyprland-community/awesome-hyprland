@@ -16,6 +16,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Config parsers
 
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
+- [tree-sitter-hypr](https://github.com/luckasRanarison/tree-sitter-hypr) ![c][c] (tree-sitter grammar for Hypr config files, made to be used with neovim)
 
 ## Plugins
 
@@ -28,6 +29,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprland-dwindle-autogroup](https://github.com/ItsDrike/hyprland-dwindle-autogroup) ![c++][cpp] (overrides grouping behavior on dwindle layout)
 - [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds i3-like manual tiling)
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (manages multiple screen's workspaces as if they were a single virtual desktop)
+
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
