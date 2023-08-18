@@ -30,7 +30,6 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds i3-like manual tiling)
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (manages multiple screen's workspaces as if they were a single virtual desktop)
 
-
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
 - [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
