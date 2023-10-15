@@ -72,7 +72,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 
 #### Misc
 
-- [Ianny](https://github.com/zer0-x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
+- [Ianny](https://github.com/zefr0x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
 
 ### Runners, Menus, and Application Launchers
 
