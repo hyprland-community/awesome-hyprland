@@ -112,6 +112,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast) ![shell][sh] (Port of grimshot, which is an abstraction over grim and slurp)
 - [Flameshot](https://github.com/flameshot-org/flameshot) ![c++][cpp] (All in one screenshotting tool with gui, annotation, + more) **(To use make sure you have grim flag enabled)**
 - [Hyprshot](https://github.com/Gustash/Hyprshot) ![shell][sh] (Another grimshot-like tool to make things easier)
+- [satty](https://github.com/gabm/satty) ![rust][rs] (A screenshot annotation tool inspired by Swappy and Flameshot)
+- [swappy](https://github.com/jtheoof/swappy) ![c][c] (A Wayland native snapshot editing tool, inspired by Snappy on macOS)
 
 #### Raw Tools
 
