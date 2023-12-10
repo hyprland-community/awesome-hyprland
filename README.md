@@ -8,10 +8,12 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 
 - [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) ![rust][rs] (events, hyprctl, binds)
 - [Hyprland-py](https://github.com/hyprland-community/hyprland-py) ![python][py] (events, hyprctl, binds)
+- [Hyprland_nim](https://github.com/xTrayambak/hyprland_ipc) ![nim][nim] (events, hyprctl, binds)
 - [Shell Events](https://github.com/hyprwm/contrib/tree/main/shellevents) ![shell][sh] (events)
 - [Hypr Events](https://github.com/vilari-mickopf/hyprevents) ![shell][sh] (events)
 - [Hyprland IPC Client](https://github.com/labi-le/hyprland-ipc-client) ![go][go] (events, hyprctl)
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
+- [hyprpy](https://github.com/ulinja/hyprpy) ![python][py]  (events)
 
 ## Config parsers
 
@@ -182,6 +184,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 <!-- Languages -->
 <!-- Rust -->
 [rs]: https://img.shields.io/badge/-rust-orange
+<!-- Nim -->
+[nim]: https://img.shields.io/badge/-nim-%23ffe953
 <!-- Shell/Bash -->
 [sh]: https://img.shields.io/badge/-shell-green
 <!-- Golang -->
