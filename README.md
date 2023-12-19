@@ -33,6 +33,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (manages multiple screen's workspaces as if they were a single virtual desktop)
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
 - [grab-workspace](https://github.com/CMurtagh-LGTM/grab-workspace) ![c++][cpp] (plugin that moves a workspace to the current monitor and shows it)
+- [hycov](https://github.com/DreamMaoMao/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
