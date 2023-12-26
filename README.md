@@ -42,6 +42,10 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtrails](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprtrails) ![c++][cpp] (Adds trails behind windows)
 - [cs:go vulkan fix](https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix) ![c++][cpp] (Fixes custom resolutions on CS:GO with -vulkan)
 
+### IPC plugins
+These technically aren't hyprland plugins, but extend hyprland functionality using only IPC
+- [pyprland](https://github.com/hyprland-community/pyprland) ![python][py] (An IPC plugin framework, with many built-in plugins)
+
 ## Tools
 
 ### Official tools
