@@ -16,7 +16,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Config parsers
 
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
-- [tree-sitter-hypr](https://github.com/luckasRanarison/tree-sitter-hypr) ![c][c] (tree-sitter grammar for Hypr config files, made to be used with neovim)
+- [tree-sitter-hyprlang](https://github.com/luckasRanarison/tree-sitter-hyprlang) ![c][c] (tree-sitter grammar for Hyprland config files, made to be used with neovim)
 
 ## Plugins
 
