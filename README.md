@@ -165,7 +165,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [gtklock](https://github.com/jovanlanik/gtklock) ![c][c] (Fork of gtkgreet, but for locking, also more configurable, and has a its module system)
 - [swaylock](https://github.com/swaywm/swaylock) ![c][c] (Sway's default locker, very configurable, and popular)
 - [swaylock-effects](https://github.com/mortie/swaylock-effects) ![c][c] (Fork of swaylock, but with effects ^)
-- [waylock](https://github.com/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
+- [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
 
 #### Clipboard Managers
 
