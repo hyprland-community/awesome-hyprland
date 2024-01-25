@@ -41,6 +41,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprbars](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprbars) ![c++][cpp] (Adds title bars to windows)
 - [hyprtrails](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprtrails) ![c++][cpp] (Adds trails behind windows)
 - [cs:go vulkan fix](https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix) ![c++][cpp] (Fixes custom resolutions on CS:GO with -vulkan)
+- [hyprwinwrap](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprwinwrap) ![c++][cpp] (Allows you to put any app as a wallpaper)
 
 ## Tools
 
