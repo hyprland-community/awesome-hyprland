@@ -177,6 +177,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 #### Idle Daemons
 
 - [swayidle](https://github.com/swaywm/swayidle) ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
+- [wscreensaver-bridge](https://github.com/kelvie/wscreensaver-bridge) ![rust][rs] (Wayland native bridge for apps that use org.freedesktop.ScreenSaver to inhibit idleness)
 
 #### Lockers
 
