@@ -53,7 +53,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ### Status Bar/Shell
 
 - [eww](https://github.com/elkowar/eww/) ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
-- [ags](https://github.com/Aylur/ags/wiki/) ![typescript][ts] (A customizable and extensible shell for Hyprland)
+- [ags](https://aylur.github.io/ags-docs/) ![typescript][ts] (A customizable and extensible shell for Hyprland)
 - [waybar](https://github.com/Alexays/Waybar/) ![c++][cpp] (Like polybar, but for wlroots, very customizable)
 - [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Featureful bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![rust][rs] (Workspaces auto renamer, tested with waybar)
