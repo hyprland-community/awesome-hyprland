@@ -43,6 +43,23 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [cs:go vulkan fix](https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix) ![c++][cpp] (Fixes custom resolutions on CS:GO with -vulkan)
 - [hyprwinwrap](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprwinwrap) ![c++][cpp] (Allows you to put any app as a wallpaper)
 
+### IPC plugins
+
+These technically aren't hyprland plugins, but extend hyprland functionality using only IPC
+
+- [pyprland](https://github.com/hyprland-community/pyprland) ![python][py]
+    - expose (brings every window to the focused workspace, then allows switching to its workspace)
+    - centerlayout (a layout maximizing one window at a time with a margin around it)
+    - lost_windows (attempt to recover windows which are out of reach)
+    - magnify (toggles the magnified state)
+    - scratchpads (use your favorite applications as dropdowns)
+    - toggle_dpms (toggles the dpms on every monitor)
+    - toggle_special (easier usage of special workspaces to "stash" windows)
+    - Multi screen:
+        - monitors (simple and flexible monitor placement)
+        - shift_monitors (swaps monitors' workspaces)
+        - workspaces_follow_focus (allows using any workspace on any monitor in a natural way)
+
 ## Tools
 
 ### Official tools
@@ -160,6 +177,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 #### Idle Daemons
 
 - [swayidle](https://github.com/swaywm/swayidle) ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
+- [wscreensaver-bridge](https://github.com/kelvie/wscreensaver-bridge) ![rust][rs] (Wayland native bridge for apps that use org.freedesktop.ScreenSaver to inhibit idleness)
 
 #### Lockers
 
