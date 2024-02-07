@@ -115,6 +115,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, useful for videos, and more advanced usage)
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
 - [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
+- [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
 
 ### Display
 
