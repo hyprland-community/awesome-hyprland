@@ -53,6 +53,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
     - lost_windows (attempt to recover windows which are out of reach)
     - magnify (toggles the magnified state)
     - scratchpads (use your favorite applications as dropdowns)
+    - shortcuts_menu (allows making menus with rofi, dmenu & similar apps)
     - toggle_dpms (toggles the dpms on every monitor)
     - toggle_special (easier usage of special workspaces to "stash" windows)
     - Multi screen:
