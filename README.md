@@ -181,6 +181,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Idle Daemons
 
+- [hypridle](https://github.com/hyprwm/hypridle) ![c++][cpp] (Hyprland's idle daemon)
 - [swayidle](https://github.com/swaywm/swayidle) ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
 - [wscreensaver-bridge](https://github.com/kelvie/wscreensaver-bridge) ![rust][rs] (Wayland native bridge for apps that use org.freedesktop.ScreenSaver to inhibit idleness)
 
@@ -189,6 +190,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [swaylock](https://github.com/swaywm/swaylock) ![c][c] (Sway's default locker, very configurable, and popular)
 - [swaylock-effects](https://github.com/mortie/swaylock-effects) ![c][c] (Fork of swaylock, but with effects ^)
 - [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
+- [hyprlock](https://github.com/hyprwm/hyprlock) ![c++][cpp] (Hyprland's GPU-accelerated screen locking utility)
 
 #### Clipboard Managers
 
