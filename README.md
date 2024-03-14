@@ -194,7 +194,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Clipboard Managers
 
-- [clipman](https://github.com/yory8/clipman) ![go][go] (A simple clipboard manager for Wayland) 
+- [clipman](https://github.com/chmouel/clipman) ![go][go] (A simple clipboard manager for Wayland) 
 - [cliphist](https://github.com/sentriz/cliphist) ![go][go] (Wayland clipboard manager)
 
 ##### Display Managers
