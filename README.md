@@ -211,6 +211,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
   - [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) ![c][c] (Very simple gtk greeter)
   - [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Configurable and overall more complicated greeter in QT)
   - [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) ![rust][rs] (Very basic greeter in raw wayland and SCTK)
+  - [tuigreet](https://github.com/apognu/tuigreet) ![rust][rs] (Graphical console greeter for greetd)
 
 <!-- Links -->
 
