@@ -129,15 +129,19 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [wlr-rander](https://sr.ht/~emersion/wlr-randr/) ![c][c] (An xrandr clone for wlroots compositors)
 - [kanshi](https://git.sr.ht/~emersion/kanshi) ![c][c] (Dynamic display configuration)
 - [Wayout](https://git.sr.ht/~shinyzenith/wayout) ![rust][rs] (For turning off display, useful for idle) **(can be replicated using hyprctl)**
-- [hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland **WIP**)
-- [hyprdim](https://github.com/donovanglover/hyprdim) ![rust][rs] (Automatically dim windows when switching between them)
-- [hyprnome](https://github.com/donovanglover/hyprnome) ![rust][rs] (GNOME-like workspace switching in Hyprland)
 - [monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) ![rust][rs] (Run the user's script when you connect or disconnect monitors)
 - [wl-mirror](https://github.com/Ferdi265/wl-mirror) ![c][c] (A simple Wayland output mirror client)
 - [hyprshade](https://github.com/loqusion/hyprshade) ![python][py] (Frontend to Hyprland's screen shader feature)
 - [wluma](https://github.com/maximbaz/wluma) ![rust][rs] (Automatically adjust screen brightness based on the screen contents and amount of ambient light)
-- [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ![shell][sh] (Utility to suspend a game process and other programs)
 - [wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) ![c][c] (Day/night gamma adjustments for Wayland)
+
+### Workspace
+
+- [hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland **WIP**)
+- [hyprdim](https://github.com/donovanglover/hyprdim) ![rust][rs] (Automatically dim windows when switching between them)
+- [hyprnome](https://github.com/donovanglover/hyprnome) ![rust][rs] (GNOME-like workspace switching in Hyprland)
+- [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ![shell][sh] (Utility to suspend a game process and other programs)
+- [hyprkool](https://github.com/thrombe/hyprkool) ![rust][rs] (plugin that adds kde activities and grid layouts. also allows to switch workspaces when cursor touches edges)
 
 ### Screenshotting
 
