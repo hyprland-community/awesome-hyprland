@@ -34,6 +34,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
 - [grab-workspace](https://github.com/CMurtagh-LGTM/grab-workspace) ![c++][cpp] (plugin that moves a workspace to the current monitor and shows it)
 - [hycov](https://github.com/DreamMaoMao/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view)
+- [hyprkool](https://github.com/thrombe/hyprkool) ![rust][rs] (plugin that adds kde activities and grid layouts. also allows to switch workspaces when cursor touches edges)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
