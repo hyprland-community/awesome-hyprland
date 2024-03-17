@@ -68,6 +68,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 - [Hyprpaper](https://github.com/hyprwm/hyprpaper) ![c++][cpp] (wallpaper daemon)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (colorpicker)
+- [hyprlock](https://github.com/hyprwm/hyprlock) ![C++][cpp] (lock screen)
+- [hypridle](https://github.com/hyprwm/hypridle) ![C++][cpp] (idle daemon)
 
 ### Status Bar/Shell
 
@@ -113,6 +115,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Wallpaper
 
+- [Hyprpaper](https://github.com/hyprwm/hyprpaper) ![c++][cpp] (blazing fast wayland wallpaper utility with IPC controls)
 - [swww](https://github.com/Horus645/swww) ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper) ![c][c] (Wallpaper daemon that wraps MPV, useful for videos, and more advanced usage)
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
@@ -151,6 +154,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [Grim](https://github.com/emersion/grim) ![c][c] (basic screenshot tool)
 - [Wayshot](https://git.sr.ht/~shinyzenith/wayshot) ![rust][rs] (basic screenshot tool made for speed and in rust)
 - [slurp](https://github.com/emersion/slurp) ![c][c] (basic area selection tool)
+- [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (wlroots-compatible Wayland color picker that does not suck)
 
 #### Recording
 
