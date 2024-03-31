@@ -33,6 +33,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
 - [grab-workspace](https://github.com/CMurtagh-LGTM/grab-workspace) ![c++][cpp] (plugin that moves a workspace to the current monitor and shows it)
 - [hycov](https://github.com/DreamMaoMao/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view)
+- [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (scrolling layout plugin similar to PaperWM or niri)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
@@ -203,7 +204,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Clipboard Managers
 
-- [clipman](https://github.com/chmouel/clipman) ![go][go] (A simple clipboard manager for Wayland) 
+- [clipman](https://github.com/chmouel/clipman) ![go][go] (A simple clipboard manager for Wayland)
 - [cliphist](https://github.com/sentriz/cliphist) ![go][go] (Wayland clipboard manager)
 
 ##### Display Managers
