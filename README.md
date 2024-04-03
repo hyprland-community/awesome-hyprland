@@ -157,7 +157,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Raw Tools
 
-- [Grim](https://github.com/emersion/grim) ![c][c] (basic screenshot tool)
+- [Grim](https://git.sr.ht/~emersion/grim) ![c][c] (basic screenshot tool)
+- [grim-hyprland](https://github.com/eriedaberrie/grim-hyprland) ![c][c] (drop-in replacement Grim fork with support for Hyprland's window capture protocol)
 - [Wayshot](https://git.sr.ht/~shinyzenith/wayshot) ![rust][rs] (basic screenshot tool made for speed and in rust)
 - [slurp](https://github.com/emersion/slurp) ![c][c] (basic area selection tool)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (wlroots-compatible Wayland color picker that does not suck)
