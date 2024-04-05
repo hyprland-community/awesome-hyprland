@@ -53,10 +53,12 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
     - [lost_windows](https://github.com/hyprland-community/pyprland/wiki/lost_windows) (attempt to recover windows which are out of reach)
     - [magnify](https://github.com/hyprland-community/pyprland/wiki/magnify) (toggles the magnified state)
     - [scratchpads](https://github.com/hyprland-community/pyprland/wiki/scratchpads) (use your favorite applications as dropdowns)
+    - [system_notifier](https://github.com/hyprland-community/pyprland/wiki/system_notifier) (adds custom desktop notifications)
     - [shortcuts_menu](https://github.com/hyprland-community/pyprland/wiki/shortcuts_menu) (allows making menus with rofi, dmenu & similar apps)
     - [fetch_client_menu](https://github.com/hyprland-community/pyprland/wiki/fetch_client_menu) select a window to be moved to your active workspace (using rofi, dmenu, etc...)
     - [toggle_dpms](https://github.com/hyprland-community/pyprland/wiki/toggle_dpms) (toggles the dpms on every monitor)
     - [toggle_special](https://github.com/hyprland-community/pyprland/wiki/toggle_special) (easier usage of special workspaces to "stash" windows)
+    - [wallpapers](https://github.com/hyprland-community/pyprland/wiki/wallpapers) (random wallpapers from a list of folders)
     - Multi screen:
         - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (simple and flexible monitor placement)
         - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (swaps monitors' workspaces)
