@@ -34,6 +34,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [grab-workspace](https://github.com/CMurtagh-LGTM/grab-workspace) ![c++][cpp] (plugin that moves a workspace to the current monitor and shows it)
 - [hycov](https://github.com/DreamMaoMao/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view)
 - [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (scrolling layout plugin similar to PaperWM or niri)
+- [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
