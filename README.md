@@ -35,6 +35,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hycov](https://github.com/DreamMaoMao/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view)
 - [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (scrolling layout plugin similar to PaperWM or niri)
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
+- [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
