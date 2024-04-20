@@ -150,6 +150,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ![shell][sh] (Utility to suspend a game process and other programs)
 - [hyprkool](https://github.com/thrombe/hyprkool) ![rust][rs] (plugin that adds kde activities and grid layouts. also allows to switch workspaces when cursor touches edges)
 - [hyprswitch](https://github.com/H3rmt/hyprswitch) ![rust][rs] (A CLI/GUI that allows switching between windows in Hyprland)
+- [hypr-ws-switcher](https://github.com/jasper-at-windswept/hypr-ws-switcher) ![shell][sh] (A script to switch workspaces based on the active screen, like awesomewm)
 
 ### Screenshotting
 
