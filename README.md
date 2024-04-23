@@ -36,6 +36,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (scrolling layout plugin similar to PaperWM or niri)
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
+- [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
+
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
@@ -44,6 +46,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtrails](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprtrails) ![c++][cpp] (Adds trails behind windows)
 - [cs:go vulkan fix](https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix) ![c++][cpp] (Fixes custom resolutions on CS:GO with -vulkan)
 - [hyprwinwrap](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprwinwrap) ![c++][cpp] (Allows you to put any app as a wallpaper)
+- [hyprexpo](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo) ![c++][cpp] (Adds an expo-like workspace overview)
 
 ### IPC plugins
 
