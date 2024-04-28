@@ -15,10 +15,11 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
 - [hyprpy](https://github.com/ulinja/hyprpy) ![python][py]  (events)
 
-## Config parsers
+## Hyprlang configuration tools
 
-- [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
 - [tree-sitter-hyprlang](https://github.com/luckasRanarison/tree-sitter-hyprlang) ![c][c] (tree-sitter grammar for Hyprland config files, made to be used with neovim)
+- [hyprls](https://github.com/ewen-lbh/hyprls) ![go][go] (A LSP server for Hyprland configuration files)
+- [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
 
 ## Plugins
 
