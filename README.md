@@ -83,8 +83,10 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Status Bar/Shell
 
-- [eww](https://github.com/elkowar/eww/) ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
+- [quickshell](https://quickshell.outfoxxed.me/) ![c++][cpp] (Simple and flexbile QtQuick based desktop shell toolkit)
 - [ags](https://aylur.github.io/ags-docs/) ![typescript][ts] (A customizable and extensible shell for Hyprland)
+- [fabric](https://github.com/Fabric-Development/fabric) ![python][py] (Fabric is a python widgets framework for wayland and X11 using gtk)
+- [eww](https://github.com/elkowar/eww/) ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
 - [waybar](https://github.com/Alexays/Waybar/) ![c++][cpp] (Like polybar, but for wlroots, very customizable)
 - [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Featureful bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![rust][rs] (Workspaces auto renamer, tested with waybar)
