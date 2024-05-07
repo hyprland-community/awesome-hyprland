@@ -69,8 +69,6 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
         - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (simple and flexible monitor placement)
         - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (swaps monitors' workspaces)
         - [workspaces_follow_focus](https://github.com/hyprland-community/pyprland/wiki/workspaces_follow_focus) (allows using any workspace on any monitor in a natural way)
-- [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) ![rust][rs]
-    - [no_decorations_when_only](https://github.com/diniamo/no_decorations_when_only) (hides window decorations when there is only one window visible)
 
 ## Tools
 
