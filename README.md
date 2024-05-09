@@ -202,6 +202,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [wayprompt](https://git.sr.ht/~leon_plickat/wayprompt) ![zig][z] (pinentry prompter)
 - [nwg-bar](https://github.com/nwg-piotr/nwg-bar) ![go][go] (GTK3-based logout bar)
 - [wleave](https://github.com/AMNatty/wleave) ![rust][rs] (A Wayland-native logout script written in Gtk3)
+- [vigiland](https://github.com/Jappie3/vigiland) ![rust][rs] (A CLI tool to inhibit the idle behaviour of a Wayland compositor, e.g. prevent locking, screen turning off, etc.)
 
 #### Idle Daemons
 
