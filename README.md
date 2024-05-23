@@ -174,6 +174,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [Wayshot](https://git.sr.ht/~shinyzenith/wayshot) ![rust][rs] (basic screenshot tool made for speed and in rust)
 - [slurp](https://github.com/emersion/slurp) ![c][c] (basic area selection tool)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (wlroots-compatible Wayland color picker that does not suck)
+- [Wayfreeze](https://github.com/Jappie3/wayfreeze) ![rust][rs] (Tool to freeze the screen of a Wayland compositor)
 
 #### Recording
 
