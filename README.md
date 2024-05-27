@@ -185,6 +185,9 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
+#### Zooming utilities
+- [woomer](https://github.com/coffeeispower/woomer) ![rust][rs] (Zooming utility for Wayland inspired by tsoding's boomer)
+
 ### Input
 
 - [Hyprkeys](https://github.com/hyprland-community/Hyprkeys) ![go][go] (Utility for dealing with keybinds in Hyprland)
