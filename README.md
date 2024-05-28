@@ -108,10 +108,12 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [SwayOSD](https://github.com/ErikReider/SwayOSD) ![rust][rs] (GNOME like OSD written in gtk)
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
+- [sysvol](https://github.com/System64fumo/sysvol) ![c++][cpp] (A basic GTK4 volume indicator)
 
 #### Misc
 
 - [Ianny](https://github.com/zefr0x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
+- [syspower](https://github.com/System64fumo/syspower) ![c++][cpp] (Simple power menu/shutdown screen written in gtkmm4)
 
 ### Runners, Menus, and Application Launchers
 
@@ -123,6 +125,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
 - [hypr-empty](https://github.com/nate-sys/hypr-empty) ![rust][rs] (Open a runner on empty workspaces)
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
+- [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (A simple and efficient gtk4 program launcher)
 
 ### Wallpaper
 
