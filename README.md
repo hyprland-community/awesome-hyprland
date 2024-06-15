@@ -92,6 +92,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [nwg-panel](https://github.com/nwg-piotr/nwg-panel) ![python][py] (GTK3-based panel with good support for Hyprland)
 - [nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) ![go][go] (GTK3-based dock for Hyprland)
 - [gBar](https://github.com/scorpion-26/gBar) ![c++][cpp] (GTK3 based blazingly fast and efficient status bar)
+- [sysbar](https://github.com/System64fumo/sysbar) ![c++][cpp] (Modular status bar for wayland)
+
 
 ### Notifications
 
@@ -219,6 +221,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [swaylock-effects](https://github.com/mortie/swaylock-effects) ![c][c] (Fork of swaylock, but with effects ^)
 - [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
 - [hyprlock](https://github.com/hyprwm/hyprlock) ![c++][cpp] (Hyprland's GPU-accelerated screen locking utility)
+- [syslock](https://github.com/System64fumo/syslock) ![c++][cpp] (Simple screen locker for wayland written in gtkmm4)
 
 #### Clipboard Managers
 
