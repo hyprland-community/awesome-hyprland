@@ -78,7 +78,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (colorpicker)
 - [hyprlock](https://github.com/hyprwm/hyprlock) ![C++][cpp] (lock screen)
 - [hypridle](https://github.com/hyprwm/hypridle) ![C++][cpp] (idle daemon)
-- [hyprcursor](https://github.com/hyprwm/hyprcursor) ![C++][cpp] (cursor format, library and utilities) **(XCursor replacement)**
+- [hyprcursor](https://github.com/hyprwm/hyprcursor) ![C++][cpp] (Utility for creating cursors for hyprland)
 
 ### Status Bar/Shell
 
