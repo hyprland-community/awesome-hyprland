@@ -124,6 +124,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [bemenu](https://github.com/Cloudef/bemenu) ![c][c] (looks like dmenu, but crossplatform)
 - [wofi](https://hg.sr.ht/~scoopta/wofi) ![c][c] (simple menu made in gtk)
 - [fuzzel](https://codeberg.org/dnkl/fuzzel) ![c][c] (simple application launcher similar to rofi's drun mode)
+- [yofi](https://github.com/l4l/yofi) ![rust][rs] (yofi is a minimalistic menu for wayland )
 - [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
 - [hypr-empty](https://github.com/nate-sys/hypr-empty) ![rust][rs] (Open a runner on empty workspaces)
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
