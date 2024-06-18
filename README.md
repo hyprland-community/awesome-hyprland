@@ -111,7 +111,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [SwayOSD](https://github.com/ErikReider/SwayOSD) ![rust][rs] (GNOME like OSD written in gtk)
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
-- [sysvol](https://github.com/System64fumo/sysvol) ![c++][cpp] (Simple volume indicator written in gtkmm 4)
+- [syshud](https://github.com/System64fumo/syshud) ![c++][cpp] (Simple heads up display written in gtkmm 4)
 
 #### Misc
 
