@@ -94,6 +94,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) ![go][go] (GTK3-based dock for Hyprland)
 - [gBar](https://github.com/scorpion-26/gBar) ![c++][cpp] (GTK3 based blazingly fast and efficient status bar)
 - [sysbar](https://github.com/System64fumo/sysbar) ![c++][cpp] (Modular status bar for wayland)
+- [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) ![typescript][ts] (A Bar/Panel for Hyprland with extensive customizability and context menus.)
 
 
 ### Notifications
