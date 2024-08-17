@@ -95,6 +95,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [gBar](https://github.com/scorpion-26/gBar) ![c++][cpp] (GTK3 based blazingly fast and efficient status bar)
 - [sysbar](https://github.com/System64fumo/sysbar) ![c++][cpp] (Modular status bar for wayland)
 - [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) ![typescript][ts] (A Bar/Panel for Hyprland with extensive customizability and context menus.)
+- [hyprpanel](https://github.com/pdf/hyprpanel) ![go][go] (An opinionated GTK4 panel/shell)
 
 
 ### Notifications
