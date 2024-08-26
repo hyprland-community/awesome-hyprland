@@ -86,6 +86,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [ags](https://aylur.github.io/ags-docs/) ![typescript][ts] (A customizable and extensible shell for Hyprland)
 - [fabric](https://github.com/Fabric-Development/fabric) ![python][py] (Fabric is a python widgets framework for wayland and X11 using gtk)
 - [eww](https://github.com/elkowar/eww/) ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
+- [sysshell](https://github.com/System64fumo/sysshell) ![c++][cpp] (Generic shell for wayland)
 - [waybar](https://github.com/Alexays/Waybar/) ![c++][cpp] (Like polybar, but for wlroots, very customizable)
 - [Hybrid](https://github.com/vars1ty/HybridBar) ![rust][rs] (Featureful bar made for wlroots based compositors)
 - [hyprland-autoname-workspaces](https://github.com/cyrinux/hyprland-autoname-workspaces) ![rust][rs] (Workspaces auto renamer, tested with waybar)
@@ -205,6 +206,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### On-screen Keyboards
 
+- [sysboard](https://github.com/System64fumo/sysboard) ![c++][cpp] (Simple virtual keyboard for wayland)
 - [wvkbd](https://github.com/jjsullivan5196/wvkbd) ![c][c] (On-screen keyboard for wlroots)
 
 ### Locking, Idle, Clipboard and Login
