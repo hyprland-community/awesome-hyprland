@@ -14,7 +14,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hyprland IPC Client](https://github.com/labi-le/hyprland-ipc-client) ![go][go] (events, hyprctl)
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
 - [hyprpy](https://github.com/ulinja/hyprpy) ![python][py]  (events)
-- [hyprland-go](https://github.com/thiagokokada/hyprland-go) ![go][go]  (hyprctl, binds)
+- [hyprland-go](https://github.com/thiagokokada/hyprland-go) ![go][go]  (events, hyprctl, binds)
 
 ## Hyprlang configuration tools
 
