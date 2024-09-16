@@ -121,6 +121,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 - [Ianny](https://github.com/zefr0x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
 - [syspower](https://github.com/System64fumo/syspower) ![c++][cpp] (Simple power menu/shutdown screen written in gtkmm 4)
+- [easyeffects](https://github.com/wwmm/easyeffects) ![c++][cpp] (Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications)
 
 ### Runners, Menus, and Application Launchers
 
