@@ -39,6 +39,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
 - [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
+- [hyproled](https://github.com/mklan/hyproled) ![shell][sh] (A shader utility to prevent OLED burn in.) 
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
