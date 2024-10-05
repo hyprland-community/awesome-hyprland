@@ -39,7 +39,6 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
 - [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
-- [hyproled](https://github.com/mklan/hyproled) ![shell][sh] (A shader utility to prevent OLED burn in.) 
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
@@ -100,7 +99,6 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) ![typescript][ts] (A Bar/Panel for Hyprland with extensive customizability and context menus.)
 - [hyprpanel](https://github.com/pdf/hyprpanel) ![go][go] (An opinionated GTK4 panel/shell)
 
-
 ### Notifications
 
 #### Notification Daemons
@@ -157,6 +155,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) ![rust][rs] (Run the user's script when you connect or disconnect monitors)
 - [wl-mirror](https://github.com/Ferdi265/wl-mirror) ![c][c] (A simple Wayland output mirror client)
 - [hyprshade](https://github.com/loqusion/hyprshade) ![python][py] (Frontend to Hyprland's screen shader feature)
+- [hyproled](https://github.com/mklan/hyproled) ![shell][sh] (A shader utility to prevent OLED burn in) 
 - [wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) ![c][c] (Day/night gamma adjustments for Wayland)
 - [Hyprlux](https://github.com/amadejkastelic/Hyprlux) ![rust][rs] (Automatically adjust gamma based on time of day and toggle vibrance when certain windows are in focus)
 - [wluma](https://github.com/maximbaz/wluma) ![rust][rs] (Automatically adjust screen brightness based on the screen contents and amount of ambient light)
