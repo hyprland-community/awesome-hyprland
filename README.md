@@ -123,6 +123,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [Ianny](https://github.com/zefr0x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
 - [syspower](https://github.com/System64fumo/syspower) ![c++][cpp] (Simple power menu/shutdown screen written in gtkmm 4)
 - [easyeffects](https://github.com/wwmm/easyeffects) ![c++][cpp] (Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications)
+- [hyprgui](https://github.com/nnyyxxxx/hyprgui) ![rust][rs] (GUI for configuring Hyprland)
 
 ### Runners, Menus, and Application Launchers
 
@@ -147,6 +148,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
 - [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
+- [hyprwall](https://github.com/nnyyxxxx/hyprwall) ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh) 
 
 ### Display
 
