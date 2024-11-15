@@ -82,6 +82,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprlock](https://github.com/hyprwm/hyprlock) ![C++][cpp] (lock screen)
 - [hypridle](https://github.com/hyprwm/hypridle) ![C++][cpp] (idle daemon)
 - [hyprcursor](https://github.com/hyprwm/hyprcursor) ![C++][cpp] (Utility for creating cursors for hyprland)
+- [hyprsunset](https://github.com/hyprwm/hyprsunset) ![C++][cpp] (Hyprland utility for color temperature filter)
+
 
 ### Status Bar/Shell
 
