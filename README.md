@@ -286,4 +286,4 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 <!-- TypeScript -->
 [ts]: https://img.shields.io/badge/-TS-007BCD
 <!-- Emacs lisp -->
-[el]: https://img.shields.io/badge/emacs-lisp
+[el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
