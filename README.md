@@ -19,6 +19,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Hyprlang configuration tools
 
 - [tree-sitter-hyprlang](https://github.com/luckasRanarison/tree-sitter-hyprlang) ![c][c] (tree-sitter grammar for Hyprland config files, made to be used with neovim)
+- [hyprlang-ts-mode](https://github.com/Nathan-Melaku/hyprlang-ts-mode) ![emacs-lisp][el] (A Major mode for editing hyprland configuration files in emacs powered by treesitter)
 - [hyprls](https://github.com/ewen-lbh/hyprls) ![go][go] (A LSP server for Hyprland configuration files)
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
 
@@ -284,3 +285,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [py]: https://img.shields.io/badge/-python-blue
 <!-- TypeScript -->
 [ts]: https://img.shields.io/badge/-TS-007BCD
+<!-- Emacs lisp -->
+[el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
