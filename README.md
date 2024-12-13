@@ -35,7 +35,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (Manages multiple screen's workspaces as if they were a single virtual desktop)
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
 - [grab-workspace](https://github.com/CMurtagh-LGTM/grab-workspace) ![c++][cpp] (Plugin that moves a workspace to the current monitor and shows it)
-- [hycov](https://github.com/DreamMaoMao/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view)
+- [hycov](https://github.com/bighu630/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view) (**FORK** original one is archived)
 - [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (Scrolling layout plugin similar to PaperWM or niri)
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
@@ -141,6 +141,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hypr-empty](https://github.com/nate-sys/hypr-empty) ![rust][rs] (Open a runner on empty workspaces)
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher written in gtkmm 4)
+- [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 
 ### Wallpaper
 
