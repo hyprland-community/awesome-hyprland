@@ -73,6 +73,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
         - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (Simple and flexible monitor placement)
         - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (Swaps monitors' workspaces)
         - [workspaces_follow_focus](https://github.com/hyprland-community/pyprland/wiki/workspaces_follow_focus) (Allows using any workspace on any monitor in a natural way)
+- [hdrop_python](https://github.com/ZeroMapleQvQ/hdrop_python) ![python][py] (A python version substitute for [contrib/hdrop](https://github.com/hyprwm/contrib/tree/main/hdrop))
 
 ## Tools
 
