@@ -89,7 +89,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 ### Status Bar/Shell
 
 - [quickshell](https://quickshell.outfoxxed.me/) ![c++][cpp] (Simple and flexbile QtQuick based desktop shell toolkit)
-- [ags](https://aylur.github.io/ags-docs/) ![typescript][ts] (A customizable and extensible shell for Hyprland)
+- [ags](https://aylur.github.io/ags/) ![typescript][ts] (A customizable and extensible shell for Hyprland)
 - [fabric](https://github.com/Fabric-Development/fabric) ![python][py] (Fabric is a python widgets framework for wayland and X11 using gtk)
 - [eww](https://github.com/elkowar/eww/) ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
 - [sysshell](https://github.com/System64fumo/sysshell) ![c++][cpp] (Generic shell for wayland)
