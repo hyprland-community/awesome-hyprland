@@ -26,7 +26,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Plugins
 
 - [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) ![c++][cpp] (A small Hyprland plugin to provide awesome-like workspace behavior)
-- [hyprgrass](https://github.com/horriblename/hyprgrass) ![c++][cpp] (Hyprland plugin for touch gestures)
+- [hyprgrass](https://github.com/horriblename/hyprgrass) ![c++][cpp] (Hyprland plugin for touch screen gestures)
 - [hyprNStack](https://github.com/zakk4223/hyprNStack) ![c++][cpp] (Hyprland plugin for N-stack tiling layout)
 - [hyprRiver](https://github.com/zakk4223/hyprRiver) ![c++][cpp] (River layouts for Hyprland)
 - [hyprfocus](https://github.com/pyt0xic/hyprfocus) ![c++][cpp] (Flashfocus-inspired plugin that adds flashing when changing focus, useful for borderless)
