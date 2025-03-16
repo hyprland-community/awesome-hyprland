@@ -196,6 +196,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [Hyprshot](https://github.com/Gustash/Hyprshot) ![shell][sh] (Another grimshot-like tool to make things easier)
 - [satty](https://github.com/gabm/satty) ![rust][rs] (A screenshot annotation tool inspired by Swappy and Flameshot)
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (A Wayland native snapshot editing tool, inspired by Snappy on macOS)
+- [HyprUpld](https://github.com/PhoenixAceVFX/hyprupld) ![shell][sh] (A beginner friendly all in one screenshot tool)
 
 #### Raw Tools
 
