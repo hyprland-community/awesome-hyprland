@@ -69,6 +69,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
     - [toggle_dpms](https://github.com/hyprland-community/pyprland/wiki/toggle_dpms) (Toggles the dpms on every monitor)
     - [toggle_special](https://github.com/hyprland-community/pyprland/wiki/toggle_special) (Easier usage of special workspaces to "stash" windows)
     - [wallpapers](https://github.com/hyprland-community/pyprland/wiki/wallpapers) (Random wallpapers from a list of folders)
+    - [fcitx5_switcher](https://hyprland-community.github.io/pyprland/fcitx5_switcher) (A useful tool for CJK input method users that can automatically switch fcitx5 input method status based on window class and title.)
     - Multi screen:
         - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (Simple and flexible monitor placement)
         - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (Swaps monitors' workspaces)
