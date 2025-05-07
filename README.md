@@ -105,6 +105,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprpanel](https://github.com/pdf/hyprpanel) ![go][go] (An opinionated GTK4 panel/shell)
 - [ashell](https://github.com/MalpenZibo/ashell) ![rust][rs] (A ready to go Wayland status bar for Hyprland)
 - [ignis](https://github.com/linkfrg/ignis) ![python][py] (GTK4-based widget framework for bars and other widgets)
+- [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 
 ### Notifications
 
