@@ -15,6 +15,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
 - [hyprpy](https://github.com/ulinja/hyprpy) ![python][py]  (events)
 - [hyprland-go](https://github.com/thiagokokada/hyprland-go) ![go][go]  (events, hyprctl, binds)
+- [hyprlua](https://github.com/cacarico/hyprlua/) ![lua][lua] (hyprctl, events, binds)
 
 ## Hyprlang configuration tools
 
@@ -296,3 +297,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [ts]: https://img.shields.io/badge/-TS-007BCD
 <!-- Emacs lisp -->
 [el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
+<!-- Lua -->
+[lua]: https://img.shields.io/badge/lua-060572
