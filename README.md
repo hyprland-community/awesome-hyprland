@@ -122,13 +122,14 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [SwayOSD](https://github.com/ErikReider/SwayOSD) ![rust][rs] (GNOME like OSD written in gtk)
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
-- [syshud](https://github.com/System64fumo/syshud) ![c++][cpp] (Simple heads up display written in gtkmm 4)
+- [syshud](https://github.com/System64fumo/syshud) ![c++][cpp] (Simple heads up display)
 - [nwg-hud](https://github.com/nwg-piotr/nwg-shell-config#nwg-hud) ![python][py] (Simple script that allows for creation of custom OSDs/HUDs)
 
 #### Misc
 
 - [Ianny](https://github.com/zefr0x/ianny) ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
-- [syspower](https://github.com/System64fumo/syspower) ![c++][cpp] (Simple power menu/shutdown screen written in gtkmm 4)
+- [sysauth](https://github.com/System64fumo/sysauth) ![c++][cpp] (Simple authentication popup)
+- [syspower](https://github.com/System64fumo/syspower) ![c++][cpp] (Simple power menu/shutdown screen)
 - [easyeffects](https://github.com/wwmm/easyeffects) ![c++][cpp] (Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications)
 
 ### Runners, Menus, and Application Launchers
@@ -143,7 +144,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [walker](https://github.com/abenz1267/walker) ![go][go] (A wayland native, highly customizable and extensible runner)
 - [hypr-empty](https://github.com/nate-sys/hypr-empty) ![rust][rs] (Open a runner on empty workspaces)
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
-- [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher written in gtkmm 4)
+- [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 
 ### Wallpaper
@@ -251,7 +252,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [swaylock-effects](https://github.com/mortie/swaylock-effects) ![c][c] (Fork of swaylock, but with effects ^)
 - [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
 - [hyprlock](https://github.com/hyprwm/hyprlock) ![c++][cpp] (Hyprland's GPU-accelerated screen locking utility)
-- [syslock](https://github.com/System64fumo/syslock) ![c++][cpp] (Simple screen locker for wayland written in gtkmm 4)
+- [syslock](https://github.com/System64fumo/syslock) ![c++][cpp] (Simple screen locker for wayland)
 
 #### Clipboard Managers
 
