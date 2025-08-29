@@ -42,6 +42,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
 - [dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) ![c++][cpp] (A plugin to make your hyprland cursor more realistic, also adds shake to find.)
 - [hyprchroma](https://github.com/alexhulbert/Hyprchroma) ![c++][cpp] (Adds transparent background support to applications that don't normally support it without decreasing opacity or affecting readability)   
+- [Hyprmodoro](https://github.com/0xFMD/hyprmodoro) ![c++][cpp] (A Pomodoro timer that shows progress in your window borders)   
+
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
