@@ -134,7 +134,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Runners, Menus, and Application Launchers
 
-- [rofi-wayland](https://github.com/lbonn/rofi) ![c][c] (Rofi fork with support for wlroots)
+- [rofi](https://github.com/davatorium/rofi) ![c][c] (A window switcher, application launcher and dmenu replacement)
 - [tofi](https://github.com/philj56/tofi) ![c][c] (Very tiny rofi inspired menu)
 - [bemenu](https://github.com/Cloudef/bemenu) ![c][c] (Looks like dmenu, but crossplatform)
 - [wofi](https://hg.sr.ht/~scoopta/wofi) ![c][c] (Simple menu made in gtk)
