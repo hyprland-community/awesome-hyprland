@@ -225,6 +225,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [Hyprkeys](https://github.com/hyprland-community/Hyprkeys) ![go][go] (Utility for dealing with keybinds in Hyprland)
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
+- [wl-voice](https://github.com/jpzk/wl-voice)![python][py] (Local Speech-to-text to wl-copy/clipboard via Faster Whisper)
 
 #### On-screen Keyboards
 
