@@ -149,7 +149,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
-
+- [jiffy](https://github.com/5hubham5ingh/jiffy) ![typescript][ts] (A terminal based, app launcher, basic calculator, emoji picker, window switcher, hyprland keybind explorer and extendable with custom command pallette.)
+  
 ### Wallpaper
 
 - [Hyprpaper](https://github.com/hyprwm/hyprpaper) ![c++][cpp] (Blazing fast wayland wallpaper utility with IPC controls)
@@ -161,7 +162,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
-
+- [WallRizz](https://github.com/5hubham5ingh/WallRizz) ![typescript][ts] (A terminal-based wallpaper manager that displays wallpapers in a grid, allowing users to select and set wallpapers while automatically customizing application color themes based on the chosen wallpaper. It also enables browsing and downloading wallpapers from a GitHub repository.)
+  
 ### Display
 
 - [iio-hyprland](https://github.com/JeanSchoeller/iio-hyprland) ![c][c] (Listen iio-sensor-proxy and auto change Hyprland output orientation)
