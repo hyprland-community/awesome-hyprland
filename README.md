@@ -44,6 +44,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprchroma](https://github.com/alexhulbert/Hyprchroma) ![c++][cpp] (Adds transparent background support to applications that don't normally support it without decreasing opacity or affecting readability)   
 - [Hyprmodoro](https://github.com/0xFMD/hyprmodoro) ![c++][cpp] (A Pomodoro timer that shows progress in your window borders)   
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
+- [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features.)
 
 
 
