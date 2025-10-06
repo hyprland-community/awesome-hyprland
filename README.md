@@ -15,6 +15,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hyprland_ipc](https://github.com/FlafyDev/hyprland_ipc) ![dart][da] (events, hyprctl)
 - [hyprpy](https://github.com/ulinja/hyprpy) ![python][py]  (events)
 - [hyprland-go](https://github.com/thiagokokada/hyprland-go) ![go][go]  (events, hyprctl, binds)
+- [hyprlua](https://github.com/cacarico/hyprlua/) ![lua][lua] (hyprctl, events, binds)
 
 ## Hyprlang configuration tools
 
@@ -34,7 +35,6 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds i3-like manual tiling)
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (Manages multiple screen's workspaces as if they were a single virtual desktop)
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
-- [grab-workspace](https://github.com/CMurtagh-LGTM/grab-workspace) ![c++][cpp] (Plugin that moves a workspace to the current monitor and shows it)
 - [hycov](https://github.com/bighu630/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view) (**FORK** original one is archived)
 - [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (Scrolling layout plugin similar to PaperWM or niri)
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
@@ -42,6 +42,9 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
 - [dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) ![c++][cpp] (A plugin to make your hyprland cursor more realistic, also adds shake to find.)
 - [hyprchroma](https://github.com/alexhulbert/Hyprchroma) ![c++][cpp] (Adds transparent background support to applications that don't normally support it without decreasing opacity or affecting readability)   
+- [Hyprmodoro](https://github.com/0xFMD/hyprmodoro) ![c++][cpp] (A Pomodoro timer that shows progress in your window borders)   
+- [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
+
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
@@ -69,6 +72,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
     - [toggle_dpms](https://github.com/hyprland-community/pyprland/wiki/toggle_dpms) (Toggles the dpms on every monitor)
     - [toggle_special](https://github.com/hyprland-community/pyprland/wiki/toggle_special) (Easier usage of special workspaces to "stash" windows)
     - [wallpapers](https://github.com/hyprland-community/pyprland/wiki/wallpapers) (Random wallpapers from a list of folders)
+    - [fcitx5_switcher](https://hyprland-community.github.io/pyprland/fcitx5_switcher) (A useful tool for CJK input method users that can automatically switch fcitx5 input method status based on window class and title.)
     - Multi screen:
         - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (Simple and flexible monitor placement)
         - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (Swaps monitors' workspaces)
@@ -134,7 +138,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Runners, Menus, and Application Launchers
 
-- [rofi-wayland](https://github.com/lbonn/rofi) ![c][c] (Rofi fork with support for wlroots)
+- [rofi](https://github.com/davatorium/rofi) ![c][c] (A window switcher, application launcher and dmenu replacement)
 - [tofi](https://github.com/philj56/tofi) ![c][c] (Very tiny rofi inspired menu)
 - [bemenu](https://github.com/Cloudef/bemenu) ![c][c] (Looks like dmenu, but crossplatform)
 - [wofi](https://hg.sr.ht/~scoopta/wofi) ![c][c] (Simple menu made in gtk)
@@ -146,6 +150,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
+- [vicinae](https://github.com/vicinaehq/vicinae) ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
 
 ### Wallpaper
 
@@ -226,6 +231,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
 - [wl-voice](https://github.com/jpzk/wl-voice)![python][py] (Local Speech-to-text to wl-copy/clipboard via Faster Whisper)
+- [Keymapper](https://github.com/houmain/keymapper) ![c++][cpp] (A cross-platform context-aware key remapper)
 
 #### On-screen Keyboards
 
@@ -259,12 +265,14 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 - [clipman](https://github.com/chmouel/clipman) ![go][go] (A simple clipboard manager for Wayland)
 - [cliphist](https://github.com/sentriz/cliphist) ![go][go] (Wayland clipboard manager)
+- [clipvault](https://github.com/Rolv-Apneseth/clipvault) ![rust][rs] (Clipboard manager for Wayland)
 
 ##### Display Managers
 
 - [GDM](https://wiki.gnome.org/Projects/GDM) ![c][c]
 - [SDDM](https://github.com/sddm/sddm) ![c++][cpp]
 - [lightdm](https://github.com/canonical/lightdm) ![c][c] (Display manager with a bunch of greeters, more info on gh repo)
+- [ly](https://codeberg.org/fairyglade/ly) ![zig][z] (A lightweight TUI *ncurses-like* display manager for Linux and BSD)
 - [Greetd](https://sr.ht/~kennylevinsen/greetd/) ![rust][rs] (Login daemon with a couple greeters, bellow are some good ones)
   - [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) ![c][c] (Very simple gtk greeter)
   - [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Configurable and overall more complicated greeter in QT)
@@ -298,3 +306,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [ts]: https://img.shields.io/badge/-TS-007BCD
 <!-- Emacs lisp -->
 [el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
+<!-- Lua -->
+[lua]: https://img.shields.io/badge/lua-060572
