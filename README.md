@@ -213,6 +213,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [slurp](https://github.com/emersion/slurp) ![c][c] (Basic area selection tool)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (wlroots-compatible Wayland color picker that does not suck)
 - [Wayfreeze](https://github.com/Jappie3/wayfreeze) ![rust][rs] (Tool to freeze the screen of a Wayland compositor)
+- [still](https://github.com/faergeek/still) ![c][c] (Freeze the screen of a Wayland compositor until a provided command exits)
 
 #### Recording
 
