@@ -222,6 +222,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Annotation
 
+- [hyprmarker](https://github.com/devmobasa/hyprmarker) ![rust][rs] (ZoomIt-inspired annotation and screenshot tool with drawing, shapes, text, and whiteboard modes)
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
 #### Zooming utilities
