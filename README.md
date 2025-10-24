@@ -51,11 +51,15 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
 
 - [border++](https://github.com/hyprwm/hyprland-plugins/tree/main/borders-plus-plus) ![c++][cpp] (Adds one or two additional borders to windows)
-- [hyprbars](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprbars) ![c++][cpp] (Adds title bars to windows)
-- [hyprtrails](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprtrails) ![c++][cpp] (Adds trails behind windows)
 - [cs:go vulkan fix](https://github.com/hyprwm/hyprland-plugins/tree/main/csgo-vulkan-fix) ![c++][cpp] (Fixes custom resolutions on CS:GO with -vulkan)
-- [hyprwinwrap](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprwinwrap) ![c++][cpp] (Allows you to put any app as a wallpaper)
+- [hyprbars](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprbars) ![c++][cpp] (Adds title bars to windows)
 - [hyprexpo](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprexpo) ![c++][cpp] (Adds an expo-like workspace overview)
+- [hyprfocus](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprfocus) ![c++][cpp](Flashfocus for hyprland)
+- [hyprscrolling](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprscrolling)![c++][cpp](Adds a scrolling layout to hyprland)
+- [hyprtrails](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprtrails) ![c++][cpp] (Adds trails behind windows)
+- [hyprwinwrap](https://github.com/hyprwm/hyprland-plugins/tree/main/hyprwinwrap) ![c++][cpp] (Allows you to put any app as a wallpaper)
+- [xtra-dispatchers](https://github.com/hyprwm/hyprland-plugins/tree/main/xtra-dispatchers) ![c++][cpp](Adds some new dispatchers)
+
 
 ### IPC plugins
 
