@@ -150,7 +150,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [fuzzel](https://codeberg.org/dnkl/fuzzel) ![c][c] (Simple application launcher similar to rofi's drun mode)
 - [yofi](https://github.com/l4l/yofi) ![rust][rs] (Yofi is a minimalistic menu for wayland)
 - [anyrun](https://github.com/Kirottu/anyrun) ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
-- [walker](https://github.com/abenz1267/walker) ![go][go] (A wayland native, highly customizable and extensible runner)
+- [walker](https://github.com/abenz1267/walker) ![rust][rs] (A wayland native, highly customizable and extensible runner)
 - [hypr-empty](https://github.com/nate-sys/hypr-empty) ![rust][rs] (Open a runner on empty workspaces)
 - [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ![go][go] (Gnome-ish application drawer)
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
