@@ -205,6 +205,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 #### All in one Tools
 
 - [Watershot](https://github.com/Kirottu/watershot) ![rust][rs] (A simple wayland native screenshot tool)
+- [Wayshot](https://github.com/waycrate/wayshot) ![rust][rs] (Basic screenshot tool made for speed and in rust)
 - [Grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast) ![shell][sh] (Port of grimshot, which is an abstraction over grim and slurp)
 - [Flameshot](https://github.com/flameshot-org/flameshot) ![c++][cpp] (All in one screenshotting tool with gui, annotation, + more) **(To use make sure you have grim flag enabled)**
 - [Hyprshot](https://github.com/Gustash/Hyprshot) ![shell][sh] (Another grimshot-like tool to make things easier)
@@ -215,8 +216,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 - [Grim](https://git.sr.ht/~emersion/grim) ![c][c] (Basic screenshot tool)
 - [grim-hyprland](https://github.com/eriedaberrie/grim-hyprland) ![c][c] (Drop-in replacement Grim fork with support for Hyprland's window capture protocol)
-- [Wayshot](https://git.sr.ht/~shinyzenith/wayshot) ![rust][rs] (Basic screenshot tool made for speed and in rust)
 - [slurp](https://github.com/emersion/slurp) ![c][c] (Basic area selection tool)
+- [waysip](https://github.com/waycrate/waysip) ![rust][rs] (Wayland native area selector)
 - [Hyprpicker](https://github.com/hyprwm/hyprpicker)  ![c++][cpp] (wlroots-compatible Wayland color picker that does not suck)
 - [Wayfreeze](https://github.com/Jappie3/wayfreeze) ![rust][rs] (Tool to freeze the screen of a Wayland compositor)
 - [still](https://github.com/faergeek/still) ![c][c] (Freeze the screen of a Wayland compositor until a provided command exits)
