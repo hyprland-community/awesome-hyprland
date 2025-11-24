@@ -157,6 +157,11 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 - [vicinae](https://github.com/vicinaehq/vicinae) ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
 
+#### Complementary Tools
+
+- [iwmenu](https://github.com/e-tho/iwmenu) ![rust][rs] (Launcher-driven Wi-Fi manager for Linux)
+- [bzmenu](https://github.com/e-tho/bzmenu) ![rust][rs] (Launcher-driven Bluetooth manager for Linux)
+
 ### Wallpaper
 
 - [Hyprpaper](https://github.com/hyprwm/hyprpaper) ![c++][cpp] (Blazing fast wayland wallpaper utility with IPC controls)
