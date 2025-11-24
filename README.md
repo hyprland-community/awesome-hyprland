@@ -276,6 +276,10 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [cliphist](https://github.com/sentriz/cliphist) ![go][go] (Wayland clipboard manager)
 - [clipvault](https://github.com/Rolv-Apneseth/clipvault) ![rust][rs] (Clipboard manager for Wayland)
 
+#### Time Tracker
+
+- [Niri Screen Time](https://github.com/probeldev/niri-screen-time) ![go][go] (A utility that collects information about how much time you spend in each application.)
+
 ##### Display Managers
 
 - [GDM](https://wiki.gnome.org/Projects/GDM) ![c][c]
