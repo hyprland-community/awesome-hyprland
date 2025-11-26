@@ -287,6 +287,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [lightdm](https://github.com/canonical/lightdm) ![c][c] (Display manager with a bunch of greeters, more info on gh repo)
 - [ly](https://codeberg.org/fairyglade/ly) ![zig][z] (A lightweight TUI *ncurses-like* display manager for Linux and BSD)
 - [Greetd](https://sr.ht/~kennylevinsen/greetd/) ![rust][rs] (Login daemon with a couple greeters, bellow are some good ones)
+- [HyprDM](https://github.com/hyprcommunity/hyprdm) ![rust][rs][c][cpp][c++] (Hyprland display management is a minimal display and session management system that can be customized with a wide range of theme-supported quickshell configurations.)
   - [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) ![c][c] (Very simple gtk greeter)
   - [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Configurable and overall more complicated greeter in QT)
   - [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) ![rust][rs] (Very basic greeter in raw wayland and SCTK)
