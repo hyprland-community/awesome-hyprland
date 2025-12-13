@@ -36,7 +36,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (Manages multiple screen's workspaces as if they were a single virtual desktop)
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
 - [hycov](https://github.com/bighu630/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view) (**FORK** original one is archived)
-- [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (Scrolling layout plugin similar to PaperWM or niri)
+- [hyprscroller](https://github.com/cpiber/hyprscroller) ![c++][cpp] (Scrolling layout plugin similar to PaperWM or niri) (**FORK** original one is archived)
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
 - [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
