@@ -41,8 +41,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
 - [hyprslidr](https://gitlab.com/magus/hyprslidr) ![c++][cpp] (A Hyprland plugin for a sliding window layout. Inspired by PaperWM.)
 - [dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) ![c++][cpp] (A plugin to make your hyprland cursor more realistic, also adds shake to find.)
-- [hyprchroma](https://github.com/alexhulbert/Hyprchroma) ![c++][cpp] (Adds transparent background support to applications that don't normally support it without decreasing opacity or affecting readability)   
-- [Hyprmodoro](https://github.com/0xFMD/hyprmodoro) ![c++][cpp] (A Pomodoro timer that shows progress in your window borders)   
+- [hyprchroma](https://github.com/alexhulbert/Hyprchroma) ![c++][cpp] (Adds transparent background support to applications that don't normally support it without decreasing opacity or affecting readability)
+- [Hyprmodoro](https://github.com/0xFMD/hyprmodoro) ![c++][cpp] (A Pomodoro timer that shows progress in your window borders)
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
 
@@ -180,7 +180,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) ![rust][rs] (Run the user's script when you connect or disconnect monitors)
 - [wl-mirror](https://github.com/Ferdi265/wl-mirror) ![c][c] (A simple Wayland output mirror client)
 - [hyprshade](https://github.com/loqusion/hyprshade) ![python][py] (Frontend to Hyprland's screen shader feature)
-- [hyproled](https://github.com/mklan/hyproled) ![shell][sh] (A shader utility to prevent OLED burn in) 
+- [hyproled](https://github.com/mklan/hyproled) ![shell][sh] (A shader utility to prevent OLED burn in)
 - [wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) ![c][c] (Day/night gamma adjustments for Wayland)
 - [Hyprlux](https://github.com/amadejkastelic/Hyprlux) ![rust][rs] (Automatically adjust gamma based on time of day and toggle vibrance when certain windows are in focus)
 - [wluma](https://github.com/maximbaz/wluma) ![rust][rs] (Automatically adjust screen brightness based on the screen contents and amount of ambient light)
@@ -291,6 +291,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
   - [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Configurable and overall more complicated greeter in QT)
   - [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) ![rust][rs] (Very basic greeter in raw wayland and SCTK)
   - [tuigreet](https://github.com/apognu/tuigreet) ![rust][rs] (Graphical console greeter for greetd)
+  - [sysc-greet](https://github.com/Nomadcxx/sysc-greet) ![go][go] (Greeter for greetd written in Go using the Bubble Tea framework.)
 
 <!-- Links -->
 
