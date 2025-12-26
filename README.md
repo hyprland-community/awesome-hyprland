@@ -229,7 +229,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Annotation
 
-- [hyprmarker](https://github.com/devmobasa/hyprmarker) ![rust][rs] (ZoomIt-inspired annotation and screenshot tool with drawing, shapes, text, and whiteboard modes)
+- [wayscriber](https://github.com/devmobasa/wayscriber) ![rust][rs] (Live screen annotation overlay for Wayland with daemon toggle, whiteboard/blackboard modes, presets, zoom, capture, undo/redo, and a configurator GUI)
 - [swappy](https://github.com/jtheoof/swappy) ![c][c] (Annotation gui made in gtk)
 
 #### Zooming utilities
