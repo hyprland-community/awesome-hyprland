@@ -322,3 +322,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
 <!-- Lua -->
 [lua]: https://img.shields.io/badge/lua-060572
+<!-- Bash -->
+[bash]: https://img.shields.io/badge/bash-5%2B-orange
