@@ -23,6 +23,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprlang-ts-mode](https://github.com/Nathan-Melaku/hyprlang-ts-mode) ![emacs-lisp][el] (A Major mode for editing hyprland configuration files in emacs powered by treesitter)
 - [hyprls](https://github.com/ewen-lbh/hyprls) ![go][go] (A LSP server for Hyprland configuration files)
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
+- [hyprbole](https://github.com/vlensys/hyprbole) ![bash][bash] (Terminal UI for managing Hyprland config)
 
 ## Plugins
 
