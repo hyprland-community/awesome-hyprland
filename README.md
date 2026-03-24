@@ -165,6 +165,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [swaybg](https://github.com/swaywm/swaybg) ![c][c] (Very simple wallpaper daemon used by default on sway)
 - [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
 - [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
+- [wayper](https://github.com/yuukidach/wayper) ![python][py] (Wallpaper manager with Wallhaven integration, auto orientation matching, and MCP server)
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
