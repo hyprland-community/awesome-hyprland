@@ -115,6 +115,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [ashell](https://github.com/MalpenZibo/ashell) ![rust][rs] (A ready to go Wayland status bar for Hyprland)
 - [ignis](https://github.com/linkfrg/ignis) ![python][py] (GTK4-based widget framework for bars and other widgets)
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
+- [aifuel](https://github.com/robertogogoni/aifuel) ![go][go] (Real-time AI provider usage monitor for waybar with Chrome extension, bubbletea TUI, and Catppuccin theme)
 
 ### Notifications
 
