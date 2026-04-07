@@ -186,6 +186,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [wluma](https://github.com/maximbaz/wluma) ![rust][rs] (Automatically adjust screen brightness based on the screen contents and amount of ambient light)
 > **NOTICE:** Wluma needs to be updated to support newer Hyprland versions, as it currently relies on the unstable DMA-buf protocol.
 - [hyprsunset](https://github.com/hyprwm/hyprsunset) ![C++][cpp] (Hyprland utility for color temperature filter)
+- [hyprmousetrap](https://github.com/naregderlevonean/hyprmousetrap) ![rust][rs] (Hot-corner daemon with Hyprland-style config)
 - [waycorner](https://github.com/AndreasBackx/waycorner) ![rust][rs] (Hot corners for Wayland)
 - [nwg-displays](https://github.com/nwg-piotr/nwg-displays) ![python][py] (Provides an intuitive GUI to manage multiple monitors)
 
