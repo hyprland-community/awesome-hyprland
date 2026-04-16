@@ -83,6 +83,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
         - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (Swaps monitors' workspaces)
         - [workspaces_follow_focus](https://github.com/hyprland-community/pyprland/wiki/workspaces_follow_focus) (Allows using any workspace on any monitor in a natural way)
 - [hdrop_python](https://github.com/ZeroMapleQvQ/hdrop_python) ![python][py] (A python re-implementation of [contrib/hdrop](https://github.com/hyprwm/contrib/tree/main/hdrop))
+- [dotfiles-mcp](https://github.com/hairglasses-studio/dotfiles-mcp) ![go][go] (MCP server with 60+ Hyprland IPC tools: window/workspace/monitor management, screenshots, input simulation, config tuning, shader control. Also includes 350+ workstation tools. Built on [mcpkit](https://github.com/hairglasses-studio/mcpkit))
 
 ## Tools
 
