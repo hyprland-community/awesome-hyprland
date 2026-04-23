@@ -66,22 +66,22 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 These technically aren't hyprland plugins, but extend hyprland functionality using only IPC
 
 - [pyprland](https://github.com/hyprland-community/pyprland) ![python][py]
-    - [expose](https://github.com/hyprland-community/pyprland/wiki/expose) (Brings every window to the focused workspace, then allows switching to its workspace)
-    - [layout_center](https://github.com/hyprland-community/pyprland/wiki/layout_center) (A layout maximizing one window at a time with a margin around it)
-    - [lost_windows](https://github.com/hyprland-community/pyprland/wiki/lost_windows) (Attempt to recover windows which are out of reach)
-    - [magnify](https://github.com/hyprland-community/pyprland/wiki/magnify) (Toggles the magnified state)
-    - [scratchpads](https://github.com/hyprland-community/pyprland/wiki/scratchpads) (Use your favorite applications as dropdowns)
-    - [system_notifier](https://github.com/hyprland-community/pyprland/wiki/system_notifier) (Adds custom desktop notifications)
-    - [shortcuts_menu](https://github.com/hyprland-community/pyprland/wiki/shortcuts_menu) (Allows making menus with rofi, dmenu & similar apps)
-    - [fetch_client_menu](https://github.com/hyprland-community/pyprland/wiki/fetch_client_menu) (Select a window to be moved to your active workspace with rofi, dmenu, etc...)
-    - [toggle_dpms](https://github.com/hyprland-community/pyprland/wiki/toggle_dpms) (Toggles the dpms on every monitor)
-    - [toggle_special](https://github.com/hyprland-community/pyprland/wiki/toggle_special) (Easier usage of special workspaces to "stash" windows)
-    - [wallpapers](https://github.com/hyprland-community/pyprland/wiki/wallpapers) (Random wallpapers from a list of folders)
-    - [fcitx5_switcher](https://hyprland-community.github.io/pyprland/fcitx5_switcher) (A useful tool for CJK input method users that can automatically switch fcitx5 input method status based on window class and title.)
+    - [expose](https://hyprland-community.github.io/pyprland/expose.html) (Brings every window to the focused workspace, then allows switching to its workspace)
+    - [layout_center](https://hyprland-community.github.io/pyprland/layout_center.html) (A layout maximizing one window at a time with a margin around it)
+    - [lost_windows](https://hyprland-community.github.io/pyprland/lost_windows.html) (Attempt to recover windows which are out of reach)
+    - [magnify](https://hyprland-community.github.io/pyprland/magnify.html) (Toggles the magnified state)
+    - [scratchpads](https://hyprland-community.github.io/pyprland/scratchpads.html) (Use your favorite applications as dropdowns)
+    - [system_notifier](https://hyprland-community.github.io/pyprland/system_notifier.html) (Adds custom desktop notifications)
+    - [shortcuts_menu](https://hyprland-community.github.io/pyprland/shortcuts_menu.html) (Allows making menus with rofi, dmenu & similar apps)
+    - [fetch_client_menu](https://hyprland-community.github.io/pyprland/fetch_client_menu.html) (Select a window to be moved to your active workspace with rofi, dmenu, etc...)
+    - [toggle_dpms](https://hyprland-community.github.io/pyprland/toggle_dpms.html) (Toggles the dpms on every monitor)
+    - [toggle_special](https://hyprland-community.github.io/pyprland/toggle_special.html) (Easier usage of special workspaces to "stash" windows)
+    - [wallpapers](https://hyprland-community.github.io/pyprland/wallpapers.html) (Random wallpapers from a list of folders)
+    - [fcitx5_switcher](https://hyprland-community.github.io/pyprland/fcitx5_switcher.html) (A useful tool for CJK input method users that can automatically switch fcitx5 input method status based on window class and title.)
     - Multi screen:
-        - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (Simple and flexible monitor placement)
-        - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (Swaps monitors' workspaces)
-        - [workspaces_follow_focus](https://github.com/hyprland-community/pyprland/wiki/workspaces_follow_focus) (Allows using any workspace on any monitor in a natural way)
+        - [monitors](https://hyprland-community.github.io/pyprland/monitors.html) (Simple and flexible monitor placement)
+        - [shift_monitors](https://hyprland-community.github.io/pyprland/shift_monitors.html) (Swaps monitors' workspaces)
+        - [workspaces_follow_focus](https://hyprland-community.github.io/pyprland/workspaces_follow_focus.html) (Allows using any workspace on any monitor in a natural way)
 - [hdrop_python](https://github.com/ZeroMapleQvQ/hdrop_python) ![python][py] (A python re-implementation of [contrib/hdrop](https://github.com/hyprwm/contrib/tree/main/hdrop))
 
 ## Tools
