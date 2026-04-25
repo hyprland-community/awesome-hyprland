@@ -24,6 +24,12 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprls](https://github.com/ewen-lbh/hyprls) ![go][go] (A LSP server for Hyprland configuration files)
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
 
+## Config managers
+- [hyprbole](https://github.com/vlensys/hyprbole) ![shell][sh] (TUI for managing Hyprland configs)
+- [hyprset](https://github.com/hyprland-community/hyprset) ![py][py] (GUI for managing hyprland configs)
+  
+
+
 ## Plugins
 
 - [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) ![c++][cpp] (A small Hyprland plugin to provide awesome-like workspace behavior)
