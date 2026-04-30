@@ -121,6 +121,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [ashell](https://github.com/MalpenZibo/ashell) ![rust][rs] (A ready to go Wayland status bar for Hyprland)
 - [ignis](https://github.com/linkfrg/ignis) ![python][py] (GTK4-based widget framework for bars and other widgets)
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
+- [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 
 ### Notifications
 
