@@ -256,8 +256,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [wvkbd](https://github.com/jjsullivan5196/wvkbd) ![c][c] (On-screen keyboard for wlroots)
 
 ### Locking, Idle, Clipboard and Login
-
-#### Misc
+- [hyprland-clipboard-manager](https://github.com/roru1312/hyprland-clipboard-manager) - A python based clipboard manager to fix rofi glitches and support syntax highlighting.
+- #### Misc
 
 - [Wlogout](https://github.com/ArtsyMacaw/wlogout) ![c][c] (Logout menu)
 - [wayprompt](https://git.sr.ht/~leon_plickat/wayprompt) ![zig][z] (Pinentry prompter)
