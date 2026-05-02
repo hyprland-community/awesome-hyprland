@@ -196,6 +196,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waycorner](https://github.com/AndreasBackx/waycorner) ![rust][rs] (Hot corners for Wayland)
 - [Monique](https://github.com/ToRvaLDz/monique) ![python][py] (Graphical monitor configurator for Hyprland and Sway with drag-and-drop layout, profiles, and hotplug daemon)
 - [nwg-displays](https://github.com/nwg-piotr/nwg-displays) ![python][py] (Provides an intuitive GUI to manage multiple monitors)
+- [rsunset](https://codeberg.org/mrfantome/rsunset)![rust][rs] (Day/Night gamma and brightness adjustement for Wayland)
 
 ### Workspace
 
