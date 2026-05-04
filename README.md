@@ -249,6 +249,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
 - [Keymapper](https://github.com/houmain/keymapper) ![c++][cpp] (A cross-platform context-aware key remapper)
+- [wflow](https://github.com/cushycush/wflow) ![rust][rs] (Bind keyboard chords to multi-step workflows, plain-text KDL files; uses the GlobalShortcuts portal where available and Hyprland IPC otherwise)
 
 #### On-screen Keyboards
 
