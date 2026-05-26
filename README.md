@@ -88,7 +88,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
         - [monitors](https://hyprland-community.github.io/pyprland/monitors.html) (Simple and flexible monitor placement)
         - [shift_monitors](https://hyprland-community.github.io/pyprland/shift_monitors.html) (Swaps monitors' workspaces)
         - [workspaces_follow_focus](https://hyprland-community.github.io/pyprland/workspaces_follow_focus.html) (Allows using any workspace on any monitor in a natural way)
-        - [hyprland-canvas](https://github.com/4bstr4ct/hyprland-canvas) ![python][py] (Infinite canvas — pan floating windows like an infinite desktop)
+- [hyprland-canvas](https://github.com/4bstr4ct/hyprland-canvas) ![python][py] (Infinite canvas — pan floating windows like an infinite desktop)
 - [hdrop_python](https://github.com/ZeroMapleQvQ/hdrop_python) ![python][py] (A python re-implementation of [contrib/hdrop](https://github.com/hyprwm/contrib/tree/main/hdrop))
 
 ## Tools
