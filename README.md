@@ -271,6 +271,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 - [hypridle](https://github.com/hyprwm/hypridle) ![c++][cpp] (Hyprland's idle daemon)
 - [swayidle](https://github.com/swaywm/swayidle) ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
+- [hyprcaffeine](https://github.com/hbuddenberg/hyprcaffeine) ![bash][sh] (Idle inhibition utility with Waybar integration, systemd service, and Walker menu frontend)
 
 #### Lockers
 
