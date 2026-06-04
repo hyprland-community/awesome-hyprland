@@ -24,6 +24,12 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprls](https://github.com/ewen-lbh/hyprls) ![go][go] (A LSP server for Hyprland configuration files)
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
 
+## Config managers
+- [hyprbole](https://github.com/vlensys/hyprbole) ![shell][sh] (TUI for managing Hyprland configs)
+- [hyprset](https://github.com/hyprland-community/hyprset) ![py][py] (GUI for managing hyprland configs)
+  
+
+
 ## Plugins
 
 - [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) ![c++][cpp] (A small Hyprland plugin to provide awesome-like workspace behavior)
@@ -35,7 +41,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds i3-like manual tiling)
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (Manages multiple screen's workspaces as if they were a single virtual desktop)
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
-- [hycov](https://github.com/bighu630/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view) (**FORK** original one is archived)
+- [hycov](https://github.com/ernestoCruz05/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view) (**FORK** original one is archived)
 - [hyprscroller](https://github.com/dawsers/hyprscroller) ![c++][cpp] (Scrolling layout plugin similar to PaperWM or niri)
 - [hyprspace](https://github.com/KZDKM/Hyprspace) ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
 - [hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion) ![c++][cpp] (Plugin to enable 'easymotion' navigation. Inspired by Xmonad easymotion)
@@ -45,6 +51,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Hyprmodoro](https://github.com/0xFMD/hyprmodoro) ![c++][cpp] (A Pomodoro timer that shows progress in your window borders)   
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
+- [hyprgamma](https://github.com/surprizeattackxx-dotcom/hypr-gamma) ![c++][cpp] (Per-monitor brightness, contrast, and gamma control with GTK4 GUI)
 
 
 
@@ -66,22 +73,23 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 These technically aren't hyprland plugins, but extend hyprland functionality using only IPC
 
 - [pyprland](https://github.com/hyprland-community/pyprland) ![python][py]
-    - [expose](https://github.com/hyprland-community/pyprland/wiki/expose) (Brings every window to the focused workspace, then allows switching to its workspace)
-    - [layout_center](https://github.com/hyprland-community/pyprland/wiki/layout_center) (A layout maximizing one window at a time with a margin around it)
-    - [lost_windows](https://github.com/hyprland-community/pyprland/wiki/lost_windows) (Attempt to recover windows which are out of reach)
-    - [magnify](https://github.com/hyprland-community/pyprland/wiki/magnify) (Toggles the magnified state)
-    - [scratchpads](https://github.com/hyprland-community/pyprland/wiki/scratchpads) (Use your favorite applications as dropdowns)
-    - [system_notifier](https://github.com/hyprland-community/pyprland/wiki/system_notifier) (Adds custom desktop notifications)
-    - [shortcuts_menu](https://github.com/hyprland-community/pyprland/wiki/shortcuts_menu) (Allows making menus with rofi, dmenu & similar apps)
-    - [fetch_client_menu](https://github.com/hyprland-community/pyprland/wiki/fetch_client_menu) (Select a window to be moved to your active workspace with rofi, dmenu, etc...)
-    - [toggle_dpms](https://github.com/hyprland-community/pyprland/wiki/toggle_dpms) (Toggles the dpms on every monitor)
-    - [toggle_special](https://github.com/hyprland-community/pyprland/wiki/toggle_special) (Easier usage of special workspaces to "stash" windows)
-    - [wallpapers](https://github.com/hyprland-community/pyprland/wiki/wallpapers) (Random wallpapers from a list of folders)
-    - [fcitx5_switcher](https://hyprland-community.github.io/pyprland/fcitx5_switcher) (A useful tool for CJK input method users that can automatically switch fcitx5 input method status based on window class and title.)
+    - [expose](https://hyprland-community.github.io/pyprland/expose.html) (Brings every window to the focused workspace, then allows switching to its workspace)
+    - [layout_center](https://hyprland-community.github.io/pyprland/layout_center.html) (A layout maximizing one window at a time with a margin around it)
+    - [lost_windows](https://hyprland-community.github.io/pyprland/lost_windows.html) (Attempt to recover windows which are out of reach)
+    - [magnify](https://hyprland-community.github.io/pyprland/magnify.html) (Toggles the magnified state)
+    - [scratchpads](https://hyprland-community.github.io/pyprland/scratchpads.html) (Use your favorite applications as dropdowns)
+    - [system_notifier](https://hyprland-community.github.io/pyprland/system_notifier.html) (Adds custom desktop notifications)
+    - [shortcuts_menu](https://hyprland-community.github.io/pyprland/shortcuts_menu.html) (Allows making menus with rofi, dmenu & similar apps)
+    - [fetch_client_menu](https://hyprland-community.github.io/pyprland/fetch_client_menu.html) (Select a window to be moved to your active workspace with rofi, dmenu, etc...)
+    - [toggle_dpms](https://hyprland-community.github.io/pyprland/toggle_dpms.html) (Toggles the dpms on every monitor)
+    - [toggle_special](https://hyprland-community.github.io/pyprland/toggle_special.html) (Easier usage of special workspaces to "stash" windows)
+    - [wallpapers](https://hyprland-community.github.io/pyprland/wallpapers.html) (Random wallpapers from a list of folders)
+    - [fcitx5_switcher](https://hyprland-community.github.io/pyprland/fcitx5_switcher.html) (A useful tool for CJK input method users that can automatically switch fcitx5 input method status based on window class and title.)
     - Multi screen:
-        - [monitors](https://github.com/hyprland-community/pyprland/wiki/monitors) (Simple and flexible monitor placement)
-        - [shift_monitors](https://github.com/hyprland-community/pyprland/wiki/shift_monitors) (Swaps monitors' workspaces)
-        - [workspaces_follow_focus](https://github.com/hyprland-community/pyprland/wiki/workspaces_follow_focus) (Allows using any workspace on any monitor in a natural way)
+        - [monitors](https://hyprland-community.github.io/pyprland/monitors.html) (Simple and flexible monitor placement)
+        - [shift_monitors](https://hyprland-community.github.io/pyprland/shift_monitors.html) (Swaps monitors' workspaces)
+        - [workspaces_follow_focus](https://hyprland-community.github.io/pyprland/workspaces_follow_focus.html) (Allows using any workspace on any monitor in a natural way)
+- [hyprland-canvas](https://github.com/4bstr4ct/hyprland-canvas) ![python][py] (Infinite canvas — pan floating windows like an infinite desktop)
 - [hdrop_python](https://github.com/ZeroMapleQvQ/hdrop_python) ![python][py] (A python re-implementation of [contrib/hdrop](https://github.com/hyprwm/contrib/tree/main/hdrop))
 
 ## Tools
@@ -115,6 +123,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [ashell](https://github.com/MalpenZibo/ashell) ![rust][rs] (A ready to go Wayland status bar for Hyprland)
 - [ignis](https://github.com/linkfrg/ignis) ![python][py] (GTK4-based widget framework for bars and other widgets)
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
+- [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 
 ### Notifications
 
@@ -188,6 +197,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 > **NOTICE:** Wluma needs to be updated to support newer Hyprland versions, as it currently relies on the unstable DMA-buf protocol.
 - [hyprsunset](https://github.com/hyprwm/hyprsunset) ![C++][cpp] (Hyprland utility for color temperature filter)
 - [waycorner](https://github.com/AndreasBackx/waycorner) ![rust][rs] (Hot corners for Wayland)
+- [Monique](https://github.com/ToRvaLDz/monique) ![python][py] (Graphical monitor configurator for Hyprland and Sway with drag-and-drop layout, profiles, and hotplug daemon)
 - [nwg-displays](https://github.com/nwg-piotr/nwg-displays) ![python][py] (Provides an intuitive GUI to manage multiple monitors)
 
 ### Workspace
