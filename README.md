@@ -16,6 +16,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprpy](https://github.com/ulinja/hyprpy) ![python][py]  (events)
 - [hyprland-go](https://github.com/thiagokokada/hyprland-go) ![go][go]  (events, hyprctl, binds)
 - [hyprlua](https://github.com/cacarico/hyprlua/) ![lua][lua] (hyprctl, events, binds)
+- [hyprland-socket](https://github.com/BlueManCZ/hyprland-socket) ![python][py] (events, ipc)
 
 ## Hyprlang configuration tools
 
@@ -23,10 +24,13 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprlang-ts-mode](https://github.com/Nathan-Melaku/hyprlang-ts-mode) ![emacs-lisp][el] (A Major mode for editing hyprland configuration files in emacs powered by treesitter)
 - [hyprls](https://github.com/ewen-lbh/hyprls) ![go][go] (A LSP server for Hyprland configuration files)
 - [Hyprparse](https://github.com/hyprland-community/hyprparse) ![rust][rs] (Hypr config file parser, with support for the web)
+- [hyprland-config](https://github.com/BlueManCZ/hyprland-config) ![python][py] (Round-trip parser and editor for Hyprland config files)
+- [hyprland-schema](https://github.com/BlueManCZ/hyprland-schema) ![python][py] (Typed Python schema for every Hyprland configuration option, generated from Hyprland source)
 
 ## Config managers
 - [hyprbole](https://github.com/vlensys/hyprbole) ![shell][sh] (TUI for managing Hyprland configs)
 - [hyprset](https://github.com/hyprland-community/hyprset) ![py][py] (GUI for managing hyprland configs)
+- [HyprMod](https://github.com/BlueManCZ/hyprmod) ![python][py] (Native GTK4/libadwaita settings app for Hyprland with live preview)
   
 
 
