@@ -179,6 +179,10 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
 
+### Theming
+
+- [tinct](https://github.com/jmylchreest/tinct) ![go][go] (Plugin-based theme/templating tool inspired by Pywal and Matugen, with multiple input mechanisms)
+
 ### Display
 
 - [iio-hyprland](https://github.com/JeanSchoeller/iio-hyprland) ![c][c] (Listen iio-sensor-proxy and auto change Hyprland output orientation)
