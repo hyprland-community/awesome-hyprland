@@ -140,6 +140,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [SwayOSD](https://github.com/ErikReider/SwayOSD) ![rust][rs] (GNOME like OSD written in gtk)
 - [Avizo](https://github.com/misterdanb/avizo) ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 - [Wob](https://github.com/francma/wob) ![c][c] (dead simple OSD inspired by xob)
+- [awob](https://github.com/jmylchreest/awob) ![rust][rs] (Wayland OSD bar — drop-in replacement for wob with KDL-based theming, typed IPC, and a listener ecosystem)
 - [syshud](https://github.com/System64fumo/syshud) ![c++][cpp] (Simple heads up display)
 - [nwg-hud](https://github.com/nwg-piotr/nwg-shell-config#nwg-hud) ![python][py] (Simple script that allows for creation of custom OSDs/HUDs)
 
