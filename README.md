@@ -92,6 +92,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-canvas](https://github.com/4bstr4ct/hyprland-canvas) ![python][py] (Infinite canvas — pan floating windows like an infinite desktop)
 - [hdrop_python](https://github.com/ZeroMapleQvQ/hdrop_python) ![python][py] (A python re-implementation of [contrib/hdrop](https://github.com/hyprwm/contrib/tree/main/hdrop))
 
+
 ## Tools
 
 ### Official tools
@@ -178,6 +179,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
+- [hyprlax](https://github.com/sandwichfarm/hyprlax) ![c][c] (parallax wallpaper daemon for hyprland) 
 
 ### Display
 
