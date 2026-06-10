@@ -27,6 +27,9 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Config managers
 - [hyprbole](https://github.com/vlensys/hyprbole) ![shell][sh] (TUI for managing Hyprland configs)
 - [hyprset](https://github.com/hyprland-community/hyprset) ![py][py] (GUI for managing hyprland configs)
+- [hyprKCS](https://github.com/kosa12/hyprKCS) ![rust][rs] (Hyprland Keybind Manager)
+- [hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) (Lightweight Website for managing Hyprland configs)
+- [Uniconf](https://github.com/ufuayk/hyprconf-gen) (Manages hyprland configs in a website)
   
 
 
@@ -52,7 +55,6 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
 - [hyprgamma](https://github.com/surprizeattackxx-dotcom/hypr-gamma) ![c++][cpp] (Per-monitor brightness, contrast, and gamma control with GTK4 GUI)
-
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
@@ -124,6 +126,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [ignis](https://github.com/linkfrg/ignis) ![python][py] (GTK4-based widget framework for bars and other widgets)
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 - [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
+- [Tide-island](https://github.com/enhaoswen/Tide-island) ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
 
 ### Notifications
 
@@ -166,6 +169,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 - [vicinae](https://github.com/vicinaehq/vicinae) ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
+- [hyprshell](https://github.com/H3rmt/hyprshell] ![rust][rs] (A GTK based modern Application launcher]
 
 ### Wallpaper
 
