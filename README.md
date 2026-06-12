@@ -30,7 +30,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprKCS](https://github.com/kosa12/hyprKCS) ![rust][rs] (Hyprland Keybind Manager)
 - [hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) (Lightweight Website for managing Hyprland configs)
 - [Uniconf](https://github.com/dsksnkz/uniconf) (Manages hyprland configs in a website)
-  
+- [hyprSettings](https://github.com/acropolis914/hyprsettings) ![typescript][ts] (Hyprland.conf UI manager settings)
 
 
 ## Plugins
