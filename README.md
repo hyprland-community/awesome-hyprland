@@ -28,8 +28,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprbole](https://github.com/vlensys/hyprbole) ![shell][sh] (TUI for managing Hyprland configs)
 - [hyprset](https://github.com/hyprland-community/hyprset) ![py][py] (GUI for managing hyprland configs)
 - [hyprKCS](https://github.com/kosa12/hyprKCS) ![rust][rs] (Hyprland Keybind Manager)
-- [hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) (Lightweight Website for managing Hyprland configs)
-- [Uniconf](https://github.com/dsksnkz/uniconf) (Manages hyprland configs in a website)
+- [hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) ![javascript][js] (Lightweight Website for managing Hyprland configs)
+- [Uniconf](https://github.com/dsksnkz/uniconf) ![javascript][js] (Manages hyprland configs in a website)
 - [hyprSettings](https://github.com/acropolis914/hyprsettings) ![typescript][ts] (Hyprland.conf UI manager settings)
 
 
@@ -337,3 +337,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
 <!-- Lua -->
 [lua]: https://img.shields.io/badge/lua-060572
+<!-- Jscript -->
+[js]: https://img.shields.io/badge/js-yellow
