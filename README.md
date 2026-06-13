@@ -169,7 +169,6 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 - [vicinae](https://github.com/vicinaehq/vicinae) ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
-- [hyprshell](https://github.com/H3rmt/hyprshell] ![rust][rs] (A GTK based modern Application launcher]
 
 ### Wallpaper
 
@@ -210,7 +209,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprnome](https://github.com/donovanglover/hyprnome) ![rust][rs] (GNOME-like workspace switching in Hyprland)
 - [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ![shell][sh] (Utility to suspend a game process and other programs)
 - [hyprkool](https://github.com/thrombe/hyprkool) ![rust][rs] (Plugin that adds KDE Plasma activities and grid layouts and cusor edge workspace navigation)
-- [hyprswitch](https://github.com/H3rmt/hyprswitch) ![rust][rs] (A CLI/GUI that allows switching between windows in Hyprland)
+- [hyprshell](https://github.com/H3rmt/hyprshell] ![rust][rs] (A GTK based modern Application launcher]
 - [hypr-ws-switcher](https://github.com/jasper-at-windswept/hypr-ws-switcher) ![shell][sh] (A script to switch workspaces based on the active screen, like awesomewm)
 - ~~[hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland )~~ (Deprecated, use hyprkool instead)
 - [hyprnavi](https://github.com/ckaznable/hyprnavi) ![rust][rs] (Simple horizontal navigation feature for hyprland)
@@ -337,5 +336,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
 <!-- Lua -->
 [lua]: https://img.shields.io/badge/lua-060572
-<!-- Jscript -->
+<!-- Javascript -->
 [js]: https://img.shields.io/badge/js-yellow
