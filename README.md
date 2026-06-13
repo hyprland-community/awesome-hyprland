@@ -27,7 +27,10 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Config managers
 - [hyprbole](https://github.com/vlensys/hyprbole) ![shell][sh] (TUI for managing Hyprland configs)
 - [hyprset](https://github.com/hyprland-community/hyprset) ![py][py] (GUI for managing hyprland configs)
-  
+- [hyprKCS](https://github.com/kosa12/hyprKCS) ![rust][rs] (Hyprland Keybind Manager)
+- [hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) ![javascript][js] (Lightweight Website for managing Hyprland configs)
+- [Uniconf](https://github.com/dsksnkz/uniconf) ![javascript][js] (Manages hyprland configs in a website)
+- [hyprSettings](https://github.com/acropolis914/hyprsettings) ![typescript][ts] (Hyprland.conf UI manager settings)
 
 
 ## Plugins
@@ -52,7 +55,6 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
 - [hyprgamma](https://github.com/surprizeattackxx-dotcom/hypr-gamma) ![c++][cpp] (Per-monitor brightness, contrast, and gamma control with GTK4 GUI)
-
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
@@ -124,6 +126,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [ignis](https://github.com/linkfrg/ignis) ![python][py] (GTK4-based widget framework for bars and other widgets)
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 - [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
+- [Tide-island](https://github.com/enhaoswen/Tide-island) ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
 
 ### Notifications
 
@@ -206,7 +209,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprnome](https://github.com/donovanglover/hyprnome) ![rust][rs] (GNOME-like workspace switching in Hyprland)
 - [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ![shell][sh] (Utility to suspend a game process and other programs)
 - [hyprkool](https://github.com/thrombe/hyprkool) ![rust][rs] (Plugin that adds KDE Plasma activities and grid layouts and cusor edge workspace navigation)
-- [hyprswitch](https://github.com/H3rmt/hyprswitch) ![rust][rs] (A CLI/GUI that allows switching between windows in Hyprland)
+- [hyprshell](https://github.com/H3rmt/hyprshell] ![rust][rs] (A GTK based modern Application launcher]
 - [hypr-ws-switcher](https://github.com/jasper-at-windswept/hypr-ws-switcher) ![shell][sh] (A script to switch workspaces based on the active screen, like awesomewm)
 - ~~[hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland )~~ (Deprecated, use hyprkool instead)
 - [hyprnavi](https://github.com/ckaznable/hyprnavi) ![rust][rs] (Simple horizontal navigation feature for hyprland)
@@ -333,3 +336,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [el]: https://img.shields.io/badge/emacs%20lisp-7C5AB1
 <!-- Lua -->
 [lua]: https://img.shields.io/badge/lua-060572
+<!-- Javascript -->
+[js]: https://img.shields.io/badge/js-yellow
