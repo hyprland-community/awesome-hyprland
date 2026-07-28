@@ -197,6 +197,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waycorner](https://github.com/AndreasBackx/waycorner) ![rust][rs] (Hot corners for Wayland)
 - [Monique](https://github.com/ToRvaLDz/monique) ![python][py] (Graphical monitor configurator for Hyprland and Sway with drag-and-drop layout, profiles, and hotplug daemon)
 - [nwg-displays](https://github.com/nwg-piotr/nwg-displays) ![python][py] (Provides an intuitive GUI to manage multiple monitors)
+- [HyprStats](https://github.com/Frantisek-Vojta/HyprStats) ![python][py] (Lightweight GTK3 system monitor widget with live graphs and hover integration)
 
 ### Workspace
 
