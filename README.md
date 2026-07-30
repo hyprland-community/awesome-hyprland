@@ -208,6 +208,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hypr-ws-switcher](https://github.com/jasper-at-windswept/hypr-ws-switcher) ![shell][sh] (A script to switch workspaces based on the active screen, like awesomewm)
 - ~~[hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland )~~ (Deprecated, use hyprkool instead)
 - [hyprnavi](https://github.com/ckaznable/hyprnavi) ![rust][rs] (Simple horizontal navigation feature for hyprland)
+- [tileroot](https://github.com/Hinikaa/tileroot) ![cpp][cpp] (Save and restore your tiling layout across sway, Hyprland, and i3 — exact tree reconstruction on sway/i3, geometry replay on Hyprland)
 
 ### Screenshotting
 
