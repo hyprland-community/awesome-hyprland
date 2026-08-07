@@ -256,6 +256,10 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [sysboard](https://github.com/System64fumo/sysboard) ![c++][cpp] (Simple virtual keyboard for wayland)
 - [wvkbd](https://github.com/jjsullivan5196/wvkbd) ![c][c] (On-screen keyboard for wlroots)
 
+### Automation
+
+- [hypr-cua-mcp](https://github.com/Smirnov-Labs/hypr-computer-use-mcp) ![python][py] (Computer-use MCP server: lets an LLM see and drive the desktop, targeting windows via hyprctl)
+
 ### Locking, Idle, Clipboard and Login
 
 #### Misc
