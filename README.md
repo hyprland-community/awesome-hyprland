@@ -188,6 +188,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) ![rust][rs] (Run the user's script when you connect or disconnect monitors)
 - [wl-mirror](https://github.com/Ferdi265/wl-mirror) ![c][c] (A simple Wayland output mirror client)
 - [hyprshade](https://github.com/loqusion/hyprshade) ![python][py] (Frontend to Hyprland's screen shader feature)
+- [hyprland-screen-shader](https://github.com/rokokol/hyprland-screen-shader) ![shell][sh] (Stacks full-screen effects and software brightness in Hyprland's single screen shader slot)
 - [hyproled](https://github.com/mklan/hyproled) ![shell][sh] (A shader utility to prevent OLED burn in) 
 - [wlsunset](https://sr.ht/~kennylevinsen/wlsunset/) ![c][c] (Day/night gamma adjustments for Wayland)
 - [Hyprlux](https://github.com/amadejkastelic/Hyprlux) ![rust][rs] (Automatically adjust gamma based on time of day and toggle vibrance when certain windows are in focus)
