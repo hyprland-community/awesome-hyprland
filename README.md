@@ -279,6 +279,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
 - [hyprlock](https://github.com/hyprwm/hyprlock) ![c++][cpp] (Hyprland's GPU-accelerated screen locking utility)
 - [syslock](https://github.com/System64fumo/syslock) ![c++][cpp] (Simple screen locker for wayland)
+- [muglock](https://github.com/Petyok/muglock) ![qml][qml] (Face unlock lockscreen for Hyprland: webcam recognition via howdy-next, PAM password fallback, built on quickshell)
 
 #### Clipboard Managers
 
@@ -333,3 +334,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [lua]: https://img.shields.io/badge/lua-060572
 <!-- Javascript -->
 [js]: https://img.shields.io/badge/js-yellow
+<!-- QML -->
+[qml]: https://img.shields.io/badge/-qml-41CD52
