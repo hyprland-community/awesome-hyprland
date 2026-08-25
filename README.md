@@ -55,6 +55,8 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
 - [hyprgamma](https://github.com/surprizeattackxx-dotcom/hypr-gamma) ![c++][cpp] (Per-monitor brightness, contrast, and gamma control with GTK4 GUI)
+- [hyprburn](https://github.com/theguriev/hyprburn) ![c++][cpp] (Compiz-style burn effect when a window closes)
+- [hyprbubbles](https://github.com/theguriev/hyprbubbles) ![c++][cpp] (Windows explode into flat coloured discs when they close)
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
