@@ -180,6 +180,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 ### Display
 
 - [iio-hyprland](https://github.com/JeanSchoeller/iio-hyprland) ![c][c] (Listen iio-sensor-proxy and auto change Hyprland output orientation)
+- [tablet-auto-rotate](https://github.com/SlickSlayer6/tablet-auto-rotate) ![py][py] (Safely auto-rotate convertible displays and keep touchscreen transforms synchronized)
 - [wlr-rander](https://sr.ht/~emersion/wlr-randr/) ![c][c] (An xrandr clone for wlroots compositors)
 - [kanshi](https://git.sr.ht/~emersion/kanshi) ![c][c] (Dynamic display configuration)
 - [shikane](https://gitlab.com/w0lff/shikane) ![rust][rs] (Deterministic dynamic output configuration tool)
