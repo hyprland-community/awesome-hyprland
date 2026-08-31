@@ -204,7 +204,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprnome](https://github.com/donovanglover/hyprnome) ![rust][rs] (GNOME-like workspace switching in Hyprland)
 - [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ![shell][sh] (Utility to suspend a game process and other programs)
 - [hyprkool](https://github.com/thrombe/hyprkool) ![rust][rs] (Plugin that adds KDE Plasma activities and grid layouts and cusor edge workspace navigation)
-- [hyprshell](https://github.com/H3rmt/hyprshell] ![rust][rs] (A GTK based modern Application launcher]
+- [hyprshell](https://github.com/H3rmt/hyprshell) ![rust][rs] (A GTK based modern Application launcher)
 - [hypr-ws-switcher](https://github.com/jasper-at-windswept/hypr-ws-switcher) ![shell][sh] (A script to switch workspaces based on the active screen, like awesomewm)
 - ~~[hypract](https://github.com/hyprland-community/hypract) ![rust][rs] (Adds KDE plasma like activities to Hyprland )~~ (Deprecated, use hyprkool instead)
 - [hyprnavi](https://github.com/ckaznable/hyprnavi) ![rust][rs] (Simple horizontal navigation feature for hyprland)
