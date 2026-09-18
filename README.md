@@ -122,6 +122,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 - [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 - [Tide-island](https://github.com/enhaoswen/Tide-island) ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
+- [caelestia-todo-widget](https://github.com/ziuus/caelestia-todo-widget) ![python][py] (Polished Catppuccin desktop Todo & Calendar widget with swipe gestures for Quickshell)
 
 ### Notifications
 
