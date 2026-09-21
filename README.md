@@ -250,6 +250,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
 - [Keymapper](https://github.com/houmain/keymapper) ![c++][cpp] (A cross-platform context-aware key remapper)
+- [Mluva](https://github.com/1vecera/Mluva) ![python][py] (GTK4 dictation and editable rewrites for Omarchy, with a Quickshell widget and searchable history)
 
 #### On-screen Keyboards
 
