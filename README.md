@@ -42,6 +42,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprfocus](https://github.com/pyt0xic/hyprfocus) ![c++][cpp] (Flashfocus-inspired plugin that adds flashing when changing focus, useful for borderless)
 - [hyprland-dwindle-autogroup](https://github.com/ItsDrike/hyprland-dwindle-autogroup) ![c++][cpp] (Overrides grouping behavior on dwindle layout)
 - [hy3](https://github.com/outfoxxed/hy3) ![c++][cpp] (Adds i3-like manual tiling)
+- [Hyprflip](https://github.com/nocstah/hyprflip) ![c++][cpp] (Two-sided window cards with animated flipping, peek and optional multi-app faces)
 - [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ![c++][cpp] (Manages multiple screen's workspaces as if they were a single virtual desktop)
 - [Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) ![c++][cpp] (Hyprland plugin that adds possibility to invert the color of specific windows)
 - [hycov](https://github.com/ernestoCruz05/hycov) ![c++][cpp] (Hyprland plugin that displays all open clients in a grid view) (**FORK** original one is archived)
