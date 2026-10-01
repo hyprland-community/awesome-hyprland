@@ -250,6 +250,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
 - [Keymapper](https://github.com/houmain/keymapper) ![c++][cpp] (A cross-platform context-aware key remapper)
+- [LinuxTask](https://github.com/JADRT22/LinuxTask) ![python][py] (Minimalist macro recorder with hardware-level evdev capture — record and replay keyboard and mouse with global hotkeys, native Hyprland driver plus KDE/GNOME Wayland and X11)
 
 #### On-screen Keyboards
 
