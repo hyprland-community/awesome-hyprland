@@ -174,6 +174,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
 - [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
+- [WhatsApp Matugen Theme](https://github.com/SammyNashed/whatsapp-matugen-theme) ![js][js] (Themes WhatsApp Web from your matugen colors and current wallpaper, with frosted-glass panels)
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
 
