@@ -148,6 +148,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [syspower](https://github.com/System64fumo/syspower) ![c++][cpp] (Simple power menu/shutdown screen)
 - [easyeffects](https://github.com/wwmm/easyeffects) ![c++][cpp] (Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications)
 - [lbn](https://git.sr.ht/~aeldit/lbn) ![rust][rs] (Notifies the user when their battery percentage drops below 20, 10 and 5%)
+- [LyricsLens](https://github.com/Julio0Cesar/lyricslens) ![rust][rs] (Synced lyrics overlay for the playing song, stays visible over fullscreen windows)
 
 ### Runners, Menus, and Application Launchers
 
