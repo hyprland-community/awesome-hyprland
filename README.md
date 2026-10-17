@@ -233,6 +233,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Recording
 
+- [HyperGSR](https://github.com/KunalSiyag/gpu-recorder-rs) ![rust][rs] (GPU-accelerated screen recorder with cursor-following auto-zoom and a layer-shell control bar)
 - [wf-recorder](https://github.com/ammen99/wf-recorder) ![c++][cpp] (Simple screenrecorder, like grim but records video)
 - [wl-screenrec](https://github.com/russelltg/wl-screenrec) ![rust][rs] (Simple and efficient screenrecorder for AMD and Intel GPUs)
 
