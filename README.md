@@ -132,6 +132,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) ![vala][va] (GNOME like notification daemon, with GUI and all)
 - [fnott](https://codeberg.org/dnkl/fnott) ![c][c] (Featureful and configurable notification daemon)
 - [hyprnotify](https://github.com/codelif/hyprnotify) ![go][go] (Notification daemon with 'hyprctl notify' as backend)
+- [Hokum](https://github.com/anomalyco/hokum) ![rust][rs] (GPU-rendered notification daemon with themes, per-app rules and Do not disturb)
 
 #### OSD
 
