@@ -175,6 +175,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
 - [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
+- [wscreensavers](https://github.com/chrisfair/wscreensavers) ![go][go] (Wayland screensaver and live wallpaper daemon with 3D WebGL visualizers and XScreenSaver bridge)
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
 
@@ -280,6 +281,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
 - [hyprlock](https://github.com/hyprwm/hyprlock) ![c++][cpp] (Hyprland's GPU-accelerated screen locking utility)
 - [syslock](https://github.com/System64fumo/syslock) ![c++][cpp] (Simple screen locker for wayland)
+- [wscreensavers](https://github.com/chrisfair/wscreensavers) ![go][go] (Screensaver, idle daemon, and PAM lock screen with built-in WebGL scenes and XScreenSaver support)
 
 #### Clipboard Managers
 
