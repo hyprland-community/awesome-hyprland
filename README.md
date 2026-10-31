@@ -122,6 +122,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 - [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 - [Tide-island](https://github.com/enhaoswen/Tide-island) ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
+- [liquid-glass](https://github.com/ziuus/liquid-glass) ![rust][rs] (Physical optical glass layer-shell floating widgets and media control island)
 
 ### Notifications
 
