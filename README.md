@@ -247,6 +247,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Input
 
+- [Hyprhand](https://github.com/Osmait/hyprhand) ![zig][z] (Desktop automation CLI for scripts and AI agents: inspect windows, take screenshots and send mouse/keyboard input, with JSON output)
 - [Hyprkeys](https://github.com/hyprland-community/Hyprkeys) ![go][go] (Utility for dealing with keybinds in Hyprland)
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
