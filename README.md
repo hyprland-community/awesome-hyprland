@@ -251,6 +251,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
 - [Keymapper](https://github.com/houmain/keymapper) ![c++][cpp] (A cross-platform context-aware key remapper)
+- [voiceio](https://github.com/Hugo0/voiceio) ![python][py] (Offline voice dictation: press a hotkey, speak, and the text is typed into the focused window through IBus)
 
 #### On-screen Keyboards
 
