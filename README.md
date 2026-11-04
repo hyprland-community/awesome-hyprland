@@ -55,6 +55,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
 - [hyprgamma](https://github.com/surprizeattackxx-dotcom/hypr-gamma) ![c++][cpp] (Per-monitor brightness, contrast, and gamma control with GTK4 GUI)
+- [hyprland-wigglewobble](https://github.com/se7enbyte/hyprland-wigglewobble) ![c++][cpp] (Wobbly windows that stick to the cursor at the grab point while the edges wobble, for Hyprland 0.57+) (**FORK** of the unmaintained [WiggleWobble](https://git.allpurposem.at/mat/WiggleWobble))
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
