@@ -55,6 +55,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprtoplr](https://github.com/SsubezZ/hyprtoplr) ![c++][cpp] (Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows)
 - [Hyprtasking](https://github.com/raybbian/hyprtasking) ![c++][cpp] (Powerful workspace management plugin, packed with features)
 - [hyprgamma](https://github.com/surprizeattackxx-dotcom/hypr-gamma) ![c++][cpp] (Per-monitor brightness, contrast, and gamma control with GTK4 GUI)
+- [hyprbars-macos](https://github.com/AfshinJalili/hyprbars-macos) ![c++][cpp] (macOS-style title bars with traffic lights, a hyprbars fork)
 
 
 ### [Official plugins](https://github.com/hyprwm/hyprland-plugins)
