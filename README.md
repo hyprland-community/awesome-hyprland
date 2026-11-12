@@ -32,6 +32,9 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [Uniconf](https://github.com/dsksnkz/uniconf) ![javascript][js] (Manages hyprland configs in a website)
 - [hyprSettings](https://github.com/acropolis914/hyprsettings) ![typescript][ts] (Hyprland.conf UI manager settings)
 
+## Complete Environments & Themes
+- [Space-Race-Theme](https://github.com/diogogc/Space-Race-Theme) ![shell][sh] (Authentic 1960s Space Race retro flight-deck desktop environment with Apollo AGC DSKY launcher, dynamic Waybar telemetry, Quindar audio, and retro phosphor cursors)
+
 
 ## Plugins
 
