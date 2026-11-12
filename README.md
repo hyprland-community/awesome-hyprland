@@ -4,6 +4,17 @@
 
 Awesome list for Hyprland, that includes useful tools and libraries that either work or are designed for Hyprland!
 
+# Sections:
+
+| Configs | Plugins | Tools | Notifications | General |
+| :--- | :--- | :--- | :--- | :--- |
+| [Language Bindings](#language-bindings) | [Plugins](#plugins) | [Tools](#tools) | [Notifications](#notifications) | [Misc](#misc) |
+| [Configuration Tools](#hyprlang-configuration-tools) | [Official Plugins](#official-plugins) | [Official Tools](#official-tools) | [Notification Daemons](#notification-daemons) | [Workspace](#workspace) |
+| [Config Managers](#config-managers) | [IPC Plugins](#ipc-plugins) | [Status Bar & Shell](#status-barshell) | [OSD](#osd) | [Screenshotting](#screenshotting) |
+| | | [Launchers & Menus](#runners-menus-and-application-launchers) | | [All-in-One Tools](#all-in-one-tools) |
+| | | [Wallpaper](#wallpaper) | | [Raw Tools](#raw-tools) |
+| | | [Display](#display) | | |
+
 ## Language Bindings
 
 - [Hyprland-rs](https://github.com/hyprland-community/hyprland-rs) ![rust][rs] (events, hyprctl, binds)
