@@ -122,6 +122,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 - [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 - [Tide-island](https://github.com/enhaoswen/Tide-island) ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
+- [omarchy-island](https://github.com/Liukskywalkerr/omarchy-island) ![qml][qml] (Dynamic island for Omarchy: the bar becomes one pill that grows into music, notifications, OSD and a control center)
 
 ### Notifications
 
@@ -334,3 +335,5 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 [lua]: https://img.shields.io/badge/lua-060572
 <!-- Javascript -->
 [js]: https://img.shields.io/badge/js-yellow
+<!-- QML -->
+[qml]: https://img.shields.io/badge/-qml-41CD52
