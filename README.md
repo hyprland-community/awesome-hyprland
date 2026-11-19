@@ -122,6 +122,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hypr-dock](https://github.com/lotos-linux/hypr-dock) ![go][go] (Interactive dock-panel for Hyprland)
 - [wayle](https://github.com/wayle-rs/wayle) ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 - [Tide-island](https://github.com/enhaoswen/Tide-island) ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
+- [cornice](https://github.com/mainliufeng/cornice) ![c++][cpp] (Hyprland shell with independent desktops for a person and their agents; read-only observation and explicit takeover)
 
 ### Notifications
 
@@ -251,6 +252,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
 - [Keymapper](https://github.com/houmain/keymapper) ![c++][cpp] (A cross-platform context-aware key remapper)
+- [hyprvoice](https://github.com/mainliufeng/hyprvoice) ![c++][cpp] (Hold-to-talk local dictation for Hyprland: streaming X-ASR preview, offline refine, one-shot paste into the active window)
 
 #### On-screen Keyboards
 
