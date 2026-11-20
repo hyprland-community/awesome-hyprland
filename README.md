@@ -175,6 +175,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [waypaper](https://github.com/anufrievroman/waypaper) ![python][py] (GUI wallpaper setter)
 - [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
 - [wpaperd](https://github.com/danyspin97/wpaperd) ![rust][rs] (Minimal wallpaper daemon for Wayland)
+- [WallForge](https://github.com/pgm1207/WallForge) ![rust][rs] ![python][py] (Wallpaper Engine wallpapers on Wayland: video, scene and web wallpapers with a GTK4 library and its own renderer)
 - ~~[hyprwall](https://github.com/nnyyxxxx/hyprwall)~~ ![rust][rs](GUI for setting wallpapers with hyprpaper, swww, swaybg, wallutils, and feh)
 > Deleted, fork of hyprwall available at <https://github.com/MarkusVolk/hyprwall>
 
