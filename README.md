@@ -165,6 +165,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 - [vicinae](https://github.com/vicinaehq/vicinae) ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
+- [ahoiplank](https://github.com/martuscellifaria/ahoiplank) ![c++][cpp] (A customizable multi-mode launcher for Wayland compositors centered on developer experience and looking good)
 
 ### Wallpaper
 
