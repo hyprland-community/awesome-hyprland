@@ -247,6 +247,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Input
 
+- [edgehop](https://github.com/Tjabooo/edgehop) ![rust][rs] (Software KVM: push the cursor off a screen edge and your keyboard and mouse drive another Hyprland machine, with an optional remote view of its screen)
 - [Hyprkeys](https://github.com/hyprland-community/Hyprkeys) ![go][go] (Utility for dealing with keybinds in Hyprland)
 - [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 - [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ![shell][sh] (Script to maintain per window keyboard layout) (language)
