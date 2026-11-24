@@ -165,6 +165,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 - [sysmenu](https://github.com/System64fumo/sysmenu) ![c++][cpp] (Simple program launcher)
 - [onagre](https://github.com/onagre-launcher/onagre) ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
 - [vicinae](https://github.com/vicinaehq/vicinae) ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
+- [keybind-find](https://github.com/Benjmhart/keybind-find) ![rust][rs] (A command palette for your desktop: lists Hyprland's binds from hyprctl with their descriptions, plus the focused app's keys, and presses the one you pick)
 
 ### Wallpaper
 
